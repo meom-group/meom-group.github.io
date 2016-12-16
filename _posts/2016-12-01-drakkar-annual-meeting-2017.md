@@ -10,7 +10,7 @@ The next DRAKKAR workshop will be held in Grenoble on **16-18 January 2017**.
 The overall objective of the workshop is to review the scientific and technical progresses achieved with the **DRAKKAR hierarchy of model configurations**
 based on the NEMO platform, and discuss key model improvements and new developments that are needed for the future. 
 
-More detailled information (venue, registrations, social events) is available on the [workshop website](http://lgge.osug.fr/meom/Events/Drakkar2017/).
+More detailled information (venue, registrations, social events) is available on the [workshop website](https://meom-group.github.io/drakkar-meeting).
 
 *Caution : the venue has changed with respect to previous years.*
 
