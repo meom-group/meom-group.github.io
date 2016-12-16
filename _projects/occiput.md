@@ -9,7 +9,8 @@ url: {{site.baseurl}}/all_projects/occiput/index.html
 
 Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
-![image]({{site.baseurl}}/assets/img/projects/occiput-ensemble.png)| ![image]({{site.baseurl}}/assets/img/projects/occiput-eddies.png)
+<img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
+<img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-eddies.png"/>
 
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4Âº ocean/sea-ice hindcasts.**
@@ -19,7 +20,8 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 .
 
 *Figure : The OCCIPUT ensemble experiment:*
-![image]({{site.baseurl}}/img/occiput-spagettis2.png)
+<img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-spagettis2.png"/>
+
 
 .
 
@@ -53,5 +55,6 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 ### Project participants:
  - **MEOM/LGGE**, Grenoble, France.
  - **CERFACS**, Toulouse, France.
-![image]({{site.baseurl}}/assets/img/projects/occiput-sponsors.png)
+  
+<img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-sponsors.png"/>
 
