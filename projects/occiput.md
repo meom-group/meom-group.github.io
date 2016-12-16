@@ -7,7 +7,6 @@ permalink: /projects/occiput/
 Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
-<img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-eddies.png"/>
 
 
 ##  Ocean Chaos - Impacts, Structures, predicability
