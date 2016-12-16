@@ -1,16 +1,14 @@
 ---
+layout: pagemd
 title: OCCIPUT
-featured: 
-layout: page
-link: 
-url: {{site.baseurl}}/all_projects/occiput/index.html
+permalink: /projects/occiput/
 ---
-
 
 Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-eddies.png"/>
+
 
 ##  Ocean Chaos - Impacts, Structures, predicability
 **Characterizing the stochastic nature of the ocean variability on interannual-to-decadal timescales in a large ensemble of 1/4º ocean/sea-ice hindcasts.**
