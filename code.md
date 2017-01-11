@@ -14,7 +14,7 @@ Because we pay a lot of attention to the **robustness and reproducibility** of o
 Other on-going active projects include : 
 
 
-- **[CDFTOOLS](https://github.com/meom-group/CDFTOOLS)** (since 2006) : A fortran package for diagnostics of ocean model output. [On-line documentation is available.](https://github.com/meom-group/CDFTOOLS/DOC/cdftools.html) (*contact : J.-M. Molines*)
+- **[CDFTOOLS](https://github.com/meom-group/CDFTOOLS)** (since 2006) : A fortran package for diagnostics of ocean model output. [On-line documentation is available.](http://meom-group.github.io/DOC/CDFTOOLS/) (*contact : J.-M. Molines*)
 
 - **[SESAM](http://lgge.osug.fr/meom/Outils/SESAM/sesam.html)** (since 2001) : A fortran library for sequencial data assimilation (*contact : J.M. Brankart*)
 
