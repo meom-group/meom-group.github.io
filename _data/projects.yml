@@ -19,6 +19,13 @@
   link : http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf
   ancre : occiput
 
+
+- title : PIRATE - Probabilistic InteRpretation of Altimeter and in-siTu obsErvations
+  image :
+  date : 2017-2020
+  text : Our CHAOCEAN and OCCIPUT projects have shown that the turbulent ocean spontaneously generates a chaotic variability that strongly imprints all observed variables, from eddy scales to basin/multi-decadal scales. The PIRATE project (IGE, LMD, LOPS, LEGOS, CERFACS) will probabilistically characterize the imprints of this random-phase broadband “noise” and of its modulation by the atmosphere on observations (SLA, SST, Heat Content, MOC, etc), and the representativeness of individual observations for the monitoring/reanalysis of the variability and long-term changes in the ocean.
+  ancre : pirate
+
 - title : GDRI DRAKKAR -  high-resolution global ocean/sea-ice modelling with NEMO
   image : 
   date : 2014-2017
