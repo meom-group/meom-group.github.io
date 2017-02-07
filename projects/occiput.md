@@ -48,6 +48,9 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
   
 ### Contact:
  [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
+ 
+### Dataset:
+ The outputs of the OCCIPUT ensemble simulation are available upon request. Please contact [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
 
 ### Project participants:
  - **MEOM/LGGE**, Grenoble, France.
