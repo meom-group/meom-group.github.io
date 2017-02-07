@@ -34,7 +34,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
   - (in prep. 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
 
- - (2016 in rev.) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. doi:10.5194/gmd-2016-174 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev-discuss.net/gmd-2016-174/).
+ - (2016 in press) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. doi:10.5194/gmd-2016-174 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev-discuss.net/gmd-2016-174/).
 
  - (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [**Ensembles of eddying ocean simulations for climate**](http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf). 
 
