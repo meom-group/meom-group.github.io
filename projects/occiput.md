@@ -29,12 +29,11 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 
 ### Related publications:
+  - (submitted, 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
 
-  - (in prep. 2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., J. of Climate, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
+  - (submitted, 2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., GRL, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
 
-  - (in prep. 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *How chaotic is the AMOC variability in eddy-permitting ocean models?*
-
- - (2016 in press) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss. doi:10.5194/gmd-2016-174 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev-discuss.net/gmd-2016-174/).
+ - (2017) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev., 10, 1091-1106, doi:10.5194/gmd-10-1091-2017 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev.net/10/1091/2017/).
 
  - (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [**Ensembles of eddying ocean simulations for climate**](http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf). 
 
