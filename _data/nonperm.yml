@@ -19,13 +19,6 @@
   image_color : Calone_color.jpg
   post : 
 
-- name : Luc Charrois
-  title : PhD Student, co-supervised with CEN, Grenoble
-  email : charrois.png
-  image_nb : Charrois_nb.jpg
-  image_color : Charrois_color.jpg
-  post : 
- 
 - name : Mondher Chekki
   title : Research Engineer
   email : chekki.png
@@ -54,13 +47,6 @@
   image_color : Duran_color.jpg
   post : 
 
-- name : Florent Garnier
-  title : Post-Doc
-  email : garnier.png
-  image_nb : Garnier_nb.jpg
-  image_color : Garnier_color.jpg
-  post : 
-
 - name : Ixetl Garcia
   title : PhD Student
   email : garcia.png
@@ -83,33 +69,22 @@
   image_color : Gulev_color.jpg
   post : 
 
-
-
-- name : Stéphanie Leroux
-  title : Research Assistant, Post-Doc
-  email : leroux.png
-  image_nb : Leroux_nb.jpg
-  image_color : Leroux_color.jpg
-  post : 
-  website : https://stephanieleroux.github.io/
-
-- name : Gildas Mainsant
-  title : Research Engineer
-  email : mainsant.png
-  image_nb : Mainsant_nb.jpg
-  image_color : Mainsant_color.jpg
-  post : 
-
-- name : Ignacio Merino 
-  title : PhD Student, co-supervised with GLACE group at IGE
-  email : merino.png
-  image_nb : Merino_nb.jpg
-  image_color : Merino_color.jpg
+- name : Ann Sophie Tissier
+  title : Post-Doc
+  email : tissier
+  image_nb : 
+  image_color : 
   post : 
 
 
 
-
+#- name : Stéphanie Leroux
+#  title : Research Assistant, Post-Doc
+#  email : leroux.png
+#  image_nb : Leroux_nb.jpg
+#  image_color : Leroux_color.jpg
+#  post : 
+#  website : https://stephanieleroux.github.io/
 
 
 
