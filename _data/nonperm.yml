@@ -54,19 +54,18 @@
   image_color : Garcia_color.jpg
   post : 
 
-- name : Laura Gomez Navarro
-  title : PhD Student
-  email : gomez.png
-  image_nb : Gomez_nb.jpg
-  image_color : Gomez_color.jpg
-  post : 
-
-
 - name : Cyril Germineaud 
   title : Post-Doc
   email : germineaud.png
   image_nb : Germineaud_nb.jpg
   image_color : Germineaud_color.jpg
+  post : 
+  
+- name : Laura Gomez Navarro
+  title : PhD Student
+  email : gomez.png
+  image_nb : Gomez_nb.jpg
+  image_color : Gomez_color.jpg
   post : 
   
 - name : Serguei Gulev
@@ -75,6 +74,21 @@
   image_nb : Gulev_nb.jpg
   image_color : Gulev_color.jpg
   post : 
+  
+- name : Stephanie Leroux
+  title : Research Engineer
+  email : leroux.png
+  image_nb : Leroux_nb.jpg
+  image_color : Leroux_color.jpg
+  post : long-term visitor from Ocean next
+  website : https://stephanieleroux.github.io/
+  
+- name : Yeray Santana Falcon
+  title : Post-Doc
+  email :
+  image_nb : Santana-Falcon_nb.jpg
+  image_color : Santana-Falcon_color.jpg
+  post :     
 
 - name : Ann Sophie Tissier
   title : Post-Doc
@@ -83,20 +97,6 @@
   image_color : Tissier_color.jpg
   post : 
   
-- name : Yeray Santana Falcon
-  title : Post-Doc
-  email :
-  image_nb : Santana-Falcon_nb.jpg
-  image_color : Santana-Falcon_color.jpg
-  post :   
-
-- name : Stephanie Leroux
-  title : Research Engineer
-  email : leroux.png
-  image_nb : Leroux_nb.jpg
-  image_color : Leroux_color.jpg
-  post : Visiting Scientist from Ocean next
-  website : https://stephanieleroux.github.io/
 
 
 
