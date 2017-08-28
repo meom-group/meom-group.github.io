@@ -29,13 +29,14 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 
 ### Related publications:
-  - (submitted, 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
+  - (in rev, 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
 
-  - (submitted, 2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., GRL, *A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*
+  - (2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., Geophys. Res. Lett., 44(11):5580–5589, doi:10.1002/2017GL073026, (http://dx.doi.org/10.1002/2017GL073026) [*A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*](http://dx.doi.org/10.1002/2017GL073026)
 
- - (2017) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev., 10, 1091-1106, doi:10.5194/gmd-10-1091-2017 [**Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution**](http://www.geosci-model-dev.net/10/1091/2017/).
+  - (2017) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss., doi:10.5194/gmd-10-1091-2017,  [*Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution*](https://www.geosci-model-dev.net/10/1091/2017/gmd-10-1091-2017.pdf).
 
- - (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [**Ensembles of eddying ocean simulations for climate**](http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf). 
+
+ - (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [*Ensembles of eddying ocean simulations for climate*](http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf). 
 
  - (2015) Sérazin, B. Meyssiniac, and T. Penduff. *Quantifying uncertainties on regional sea-level change induced by multi-decadal oceanic intrinsic variability*. Geoph. Res. Lett., 43(15), doi: 10.1002/2016GL069273.
 
