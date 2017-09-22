@@ -23,10 +23,12 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 .
 
 ###  OCCIPUT documents and presentations:
-  -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
-   
+  - OCCIPUT seminar given at Ecole de Physique des Houches, August 2017 [[video]](https://youtu.be/X60ue6Ch184)
+
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
+  -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
+   
 
 ### Related publications:
   - (in rev, 2017) Leroux S., Penduff T., BessiÃ¨res L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
