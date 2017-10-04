@@ -1,3 +1,10 @@
+- title : BOOST-SWOT - Building Of Ocean Surface Topography maps from SWOT. 
+  image :
+  date : 2018-2021
+  text : The goal of BOOST-SWOT is to design new algorithms able to provide altimetry-derived SSH gridded products resolving at least the upper spectrum of the sub-mesoscale dynamics (> 50 km), incorporating SWOT data expected in 2021.
+  link : https://meom-group.github.io/projects/boost-swot/
+  ancre : boost-swot
+
 - title : Ocean modelling and data assimilation for SWOT mission - Preparing the inversion of SWOT data. 
   image :
   date : 2017-2020
@@ -25,6 +32,12 @@
   date : 2017-2020
   text : Our CHAOCEAN and OCCIPUT projects have shown that the turbulent ocean spontaneously generates a chaotic variability that strongly imprints all observed variables, from eddy scales to basin/multi-decadal scales. The PIRATE project (IGE, LMD, LOPS, LEGOS, CERFACS) will probabilistically characterize the imprints on observations (SLA, SST, Heat Content, MOC, etc) of this random-phase broadband “noise”, investigate its modulation by the atmosphere, and assess the representativeness of individual satellite/in-situ observations for the monitoring/reanalysis of the variability and long-term changes in the ocean.
   ancre : pirate
+
+- title : MOMOMS - Merging Ocean Models and Observations at Mesoscale and Submesoscale
+  image :
+  date : 2017-2020
+  text : MOMOMS focuses on the development of tools and methods dedicated to increase the resolution of satellite-derived SSH datasets and subsequent products. It builds upon the high expertise of researchers, engineers and students in France and Europe, covering physical oceanography, numerical oceanography, operational oceanography, data assimilation, image processing and applied mathematics.
+  ancre : momoms
 
 - title : GDRI DRAKKAR -  high-resolution global ocean/sea-ice modelling with NEMO
   image : 
