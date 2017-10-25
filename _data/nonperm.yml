@@ -11,6 +11,13 @@
   image_nb : Albert_nb.jpg
   image_color : Albert_color.jpg
   post : 
+  
+- name : Laurent Brodeau
+  title : Research Engineer
+  email : brodeau.png
+  image_nb : Brodeau_nb.jpg
+  image_color : Brodeau_color.jpg
+  post : long-term visitor from Ocean Next  
 
 - name : Christophe Calone
   title : PhD Student
@@ -77,10 +84,10 @@
   
 - name : Stephanie Leroux
   title : Research Engineer
-  email : leroux.png
+  email : leroux2.png
   image_nb : Leroux_nb.jpg
   image_color : Leroux_color.jpg
-  post : long-term visitor from Ocean next
+  post : long-term visitor from Ocean Next
   website : https://stephanieleroux.github.io/
   
 - name : Yeray Santana Falcon
