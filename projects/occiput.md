@@ -31,7 +31,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
    
 
 ### Related publications:
-  - (in rev, 2017) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
+  - (2018, accepted, in press) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, *Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*
 
   - (2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., Geophys. Res. Lett., 44(11):5580–5589, doi:10.1002/2017GL073026, (http://dx.doi.org/10.1002/2017GL073026) [*A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*](http://dx.doi.org/10.1002/2017GL073026)
 
