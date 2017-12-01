@@ -82,6 +82,14 @@
   image_color : Gulev_color.jpg
   post : 
   
+- name : Redouane Lguensat
+  title : 
+  email : lguensat.png
+  image_nb : 
+  image_color : 
+  post : Post_Doc
+  website : https://redouanelg.github.io/
+  
 - name : Stephanie Leroux
   title : Research scientist
   email : leroux2.png
@@ -89,14 +97,6 @@
   image_color : Leroux_color.jpg
   post : long-term visitor from Ocean Next
   website : https://stephanieleroux.github.io/
-  
- - name : Refouane Lguensat
-  title : 
-  email : lguensat.png
-  image_nb : 
-  image_color : 
-  post : Post_Doc
-  website : https://redouanelg.github.io/
   
 - name : Pierre Rampal
   title : Research scientist
