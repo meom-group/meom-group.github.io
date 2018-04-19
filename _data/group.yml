@@ -4,7 +4,7 @@
   image_nb : Penduff_nb.jpg
   image_color : Penduff_color.jpg
   post : Researcher (CNRS)
-  website : http://pp.ige-grenoble.fr/pageperso/
+  website : http://pp.ige-grenoble.fr/pageperso/pendufft/
   phone : +33 (0) 4 76 82 86 54
 
 - name : Julien Le Sommer
@@ -22,6 +22,7 @@
   image_nb : JBrasseur_nb.jpg
   image_color : JBrasseur_color.jpg
   post : Administrative Assistant
+  website : http://pp.ige-grenoble.fr/pageperso/brassejo/
   phone : +33 (0) 4 76 82 50 61
   
 
@@ -34,21 +35,13 @@
   website : http://pp.ige-grenoble.fr/pageperso/barnierb/
   phone : +33 (0) 4 76 82 50 66
 
-- name : Pierre-Antoine Bouttier
-  title : 
-  email : bouttier.png
-  image_nb : Bouttier_nb.jpg
-  image_color : Bouttier_color.jpg
-  post : Research Engineer (CNRS)
-  phone : +33 (0) 4 76 82 50 83
-
 - name : Jean-Michel Brankart
   title : 
   email : brankart.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : Research Engineer (CNRS)
-  website : http://pp.ige-grenoble.fr/pageperso/
+  website : http://pp.ige-grenoble.fr/pageperso/brankarj/
   phone : +33 (0) 4 76 82 50 34
 
 - name : Emmanuel Cosme
@@ -57,7 +50,7 @@
   image_nb : Cosme_nb.jpg
   image_color : Cosme_color.jpg
   post : Assistant Professor (UJF)
-  website : http://pp.ige-grenoble.fr/pageperso/
+  website : http://pp.ige-grenoble.fr/pageperso/cosmee/
   phone : +33 (0) 4 76 82 50 51
 
 - name : Jean-Marc Molines
@@ -66,6 +59,7 @@
   image_nb : Molines_nb.jpg
   image_color : Molines_color.jpg
   post : Research Engineer (CNRS)
+  website : http://pp.ige-grenoble.fr/pageperso/molines/
   phone : +33 (0) 4 76 82 50 62
 
 - name : Jacques Verron
@@ -74,7 +68,7 @@
   image_nb : Verron_nb.jpg
   image_color : Verron_color.jpg
   post : Research Director (CNRS)
-  website : http://pp.ige-grenoble.fr/pageperso/
+  website : http://pp.ige-grenoble.fr/pageperso/verron/JV-iweb/Accueil.html
   phone : +33 (0) 4 76 82 50 18
 
 
