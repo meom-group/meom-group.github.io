@@ -4,7 +4,7 @@
   image_nb : Penduff_nb.jpg
   image_color : Penduff_color.jpg
   post : Researcher (CNRS)
-  website : http://lgge.osug.fr/personnels/penduff_thierry/FRANCAIS/
+  website : http://pp.ige-grenoble.fr/pageperso/
   phone : +33 (0) 4 76 82 86 54
 
 - name : Julien Le Sommer
@@ -13,7 +13,7 @@
   image_nb : Lesommer_nb.jpg
   image_color : Lesommer_color.jpg
   post : Researcher (CNRS)
-  website : http://lgge.osug.fr/personnels/Lesommer_Julien
+  website : http://lesommer.github.io 
   phone : +33 (0) 4 76 82 50 65
 
 - name : Josiane Brasseur
@@ -31,7 +31,7 @@
   image_nb : Barnier_nb.jpg
   image_color : Barnier_color.jpg
   post : Research Director (CNRS)
-  website : http://lgge.osug.fr/meom/pages-perso/Barnier
+  website : http://pp.ige-grenoble.fr/pageperso/barnierb/
   phone : +33 (0) 4 76 82 50 66
 
 - name : Pierre-Antoine Bouttier
@@ -48,16 +48,8 @@
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : Research Engineer (CNRS)
-  website : http://lgge.osug.fr/meom/pages-perso/brankart
+  website : http://pp.ige-grenoble.fr/pageperso/
   phone : +33 (0) 4 76 82 50 34
-
-- name : Pierre Brasseur
-  title : 
-  email : brasseur_p.png
-  image_nb : PBrasseur_nb.jpg
-  image_color : PBrasseur_color.jpg
-  post : Research Director (CNRS)
-  phone : +33 (0) 4 76 82 50 72
 
 - name : Emmanuel Cosme
   title : 
@@ -65,7 +57,7 @@
   image_nb : Cosme_nb.jpg
   image_color : Cosme_color.jpg
   post : Assistant Professor (UJF)
-  website : http://lgge.osug.fr/personnels/Cosme/
+  website : http://pp.ige-grenoble.fr/pageperso/
   phone : +33 (0) 4 76 82 50 51
 
 - name : Jean-Marc Molines
@@ -82,7 +74,7 @@
   image_nb : Verron_nb.jpg
   image_color : Verron_color.jpg
   post : Research Director (CNRS)
-  website : http://lgge.osug.fr/meom/pages-perso/verron
+  website : http://pp.ige-grenoble.fr/pageperso/
   phone : +33 (0) 4 76 82 50 18
 
 
