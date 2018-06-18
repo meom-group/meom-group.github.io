@@ -1,5 +1,5 @@
 ---
-title: SWOT 3rd Science Teamm Meeting 2018 (26-29 June 2018)
+title: SWOT 3rd Science Team Meeting 2018 (26-29 June 2018)
 layout: page
 link: 
 ---
