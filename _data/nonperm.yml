@@ -79,8 +79,8 @@
 - name : Redouane Lguensat
   title : 
   email : lguensat.png
-  image_nb : Redouane_color.jpg
-  image_color : Redouane_color.jpg
+  image_nb : Lguensat_color.jpg
+  image_color : Lguensat_color.jpg
   post : Post-Doc
   website : https://redouanelg.github.io/
   
@@ -113,7 +113,13 @@
   image_nb : Tissier_nb.jpg
   image_color : Tissier_color.jpg
   post : 
-  
+
+- name : Simon Verrier
+  title : Post-Doc
+  email : verrier.png
+  image_nb : Verrier_nb.jpg
+  image_color : Verrier_color.jpg
+  post :  
 
 
 
