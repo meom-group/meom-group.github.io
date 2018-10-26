@@ -31,7 +31,12 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
    
 
 ### Related publications:
-  - (2018, accepted, Early Online Release) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, doi:JCLI-D-17-0168.1,  [*Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*](http://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0168.1)
+
+  - (2018) Zanna, L., J.M. Brankart, M. Huber, S. Leroux, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. doi:10.1002/qj.3397, _(Accepted Author Manuscript)_, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
+  
+  - (2018) Penduff, T., G. Sérazin, S. Leroux, S. Close, J.-M. Molines, B. Barnier, L. Bessières, L. Terray, and G. Maze. Oceanography, 31(2). doi:10.5670/oceanog.2018.210. [*Chaotic variability of ocean heat content: Climate-relevant features and observational implications.*](https://doi.org/10.5670/oceanog.2018.210).
+
+  - (2018) Leroux S., Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M., Terray L., Barnier B., Serazin G., J. of Climate, 31(3) doi:JCLI-D-17-0168.1,  [*Intrinsic and atmospherically-forced variability of the AMOC : insights from a large ensemble ocean hindcast.*](http://dx.doi.org/10.1175/JCLI-D-17-0168.1)
 
   - (2017) Sérazin G., Jaymond A., Leroux, Penduff T., Bessières L.,  Brankart J.-M., Molines J.-M. , Terray L., Barnier B., Serazin G., Geophys. Res. Lett., 44(11):5580–5589, doi:10.1002/2017GL073026, (http://dx.doi.org/10.1002/2017GL073026) [*A probabilistic study of low-frequency ocean heat content variability: atmospheric influence versus oceanic chaos.*](http://dx.doi.org/10.1002/2017GL073026)
 
