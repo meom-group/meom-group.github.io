@@ -1,13 +1,46 @@
+- name : Pierre-Antoine Bouttier
+  title : Research Engineer (CNRS)
+  email : bouttier.png
+  image_nb : Bouttier_nb.jpg
+  image_color : Bouttier_color.jpg
+  post : 
+
+- name : Christophe Calone
+  title : PhD Student
+  image_nb : Calone_nb.jpg
+  image_color : Calone_color.jpg
+  post :
+  
 - name : Luc Charrois
   title : PhD Student, co-supervised with CEN, Grenoble
   image_nb : Charrois_nb.jpg
   image_color : Charrois_color.jpg
+  post : 
+  
+- name : Mondher Chekki
+  title : Research Engineer from Mercator Océan
+  email : chekki.png
+  image_nb : Chekki_nb.jpg
+  image_color : Chekki_color.jpg
+  post :
+
+- name : Pedro Colombo
+  title : PhD Student
+  email : colombo.png
+  image_nb : Colombo_nb.jpg
+  image_color : Colombo_color.jpg
   post : 
  
 - name : Florent Garnier
   title : Post-Doc
   image_nb : Garnier_nb.jpg
   image_color : Garnier_color.jpg
+  post : 
+  
+- name : Cyril Germineaud 
+  title : Post-Doc
+  image_nb : Germineaud_nb.jpg
+  image_color : Germineaud_color.jpg
   post : 
 
 - name : Gildas Mainsant
@@ -22,24 +55,10 @@
   image_color : Merino_color.jpg
   post : 
 
-- name : Pierre-Antoine Bouttier
-  title :
-  email : bouttier.png
-  image_nb : Bouttier_nb.jpg
-  image_color : Bouttier_color.jpg
-  post : Research Engineer (CNRS)
-  phone : +33 (0) 4 76 82 50 83
-
-- name : Christophe Calone
-  title : PhD Student
-  email : calone.png
-  image_nb : Calone_nb.jpg
-  image_color : Calone_color.jpg
-  post :
-
-
-
-
-
-
+- name : Pierre Rampal
+  title : Research Scientist
+  email : rampal.png
+  image_nb : Pierre_Rempal_nb.jpg
+  image_color : Pierre_Rempal_color.jpg
+  post : long-term visitor from  Nansen Center, Bergen, Norway. 
 

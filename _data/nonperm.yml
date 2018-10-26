@@ -18,27 +18,14 @@
   image_nb : Brodeau_nb.jpg
   image_color : Brodeau_color.jpg
   post : long-term visitor from Ocean Next  
-
-
-- name : Mondher Chekki
-  title : Research Engineer
-  email : chekki.png
-  image_nb : Chekki_nb.jpg
-  image_color : Chekki_color.jpg
-  post : Long-term visitor from Mercator Océan
+  website : https://ocean-next.fr/team/LB/
+  phone : +33 (0)4 4 76 82 70 76
 
 - name : Sally Close
   title : Post-Doc
   email : close.png
   image_nb : Close_nb.jpg
   image_color : Close_color.jpg
-  post : 
-
-- name : Pedro Colombo
-  title : PhD Student
-  email : colombo.png
-  image_nb : Colombo_nb.jpg
-  image_color : Colombo_color.jpg
   post : 
 
 - name : Marina Duran
@@ -53,13 +40,6 @@
   email : garcia.png
   image_nb : Garcia_nb.jpg
   image_color : Garcia_color.jpg
-  post : 
-
-- name : Cyril Germineaud 
-  title : Post-Doc
-  email : germineaud.png
-  image_nb : Germineaud_nb.jpg
-  image_color : Germineaud_color.jpg
   post : 
   
 - name : Laura Gomez Navarro
@@ -76,6 +56,15 @@
   image_color : Gulev_color.jpg
   post : 
   
+- name : Stephanie Leroux
+  title : Research scientist
+  email : leroux2.png
+  image_nb : Leroux_nb.jpg
+  image_color : Leroux_color.jpg
+  post : long-term visitor from Ocean Next
+  website : https://ocean-next.fr/team/SL/
+  phone : +33 (0)4 4 76 82 70 76
+
 - name : Redouane Lguensat
   title : 
   email : lguensat.png
@@ -83,22 +72,14 @@
   image_color : Lguensat_color.jpg
   post : Post-Doc
   website : https://redouanelg.github.io/
-  
-- name : Stephanie Leroux
-  title : Research scientist
-  email : leroux2.png
-  image_nb : Leroux_nb.jpg
-  image_color : Leroux_color.jpg
-  post : long-term visitor from Ocean Next
-  website : https://stephanieleroux.github.io/
-  
-- name : Pierre Rampal
-  title : Research scientist
-  email : rampal.png
-  image_nb : Pierre_Rempal_nb.jpg
-  image_color : Pierre_Rempal_color.jpg
-  post : long-term visitor from Nansen Center (Bergen, Norway)
-  website : https://www.pierre-rampal.com/
+
+- name : Sammy Metref
+  title : Post-Doc
+  email : metref.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  website : 
   
 - name : Yeray Santana Falcon
   title : Post-Doc
