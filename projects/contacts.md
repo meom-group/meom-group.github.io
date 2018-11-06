@@ -6,7 +6,7 @@ permalink: /projects/contacts/
 
 Project funded by the Make Our Planet Great Again program (2019-2021). Principal investigators: W.K. Dewar (Florida State University) and MEOM scientists. Collaborations in LOPS (Brest) and LMD (Paris).
 
-Consistent OceaN Turbulence for ClimaTe Simulators
+** Consistent OceaN Turbulence for ClimaTe Simulators **
 
 The Earth's climate evolution and sensitivity to human influences strongly depend on the dynamics of the ocean, which absorbs most of the excess heat and greenhouse gases, redistributes them around the globe, and may eventually flux them back into the atmosphere. Numerical climate simulators now partially resolve the oceanic mesoscale turbulence (scales of ~100km, the strongest ocean variability process involved in climate dynamics) and provide more consistent solutions than their laminar predecessors.
 
@@ -22,7 +22,7 @@ Over the next 3 years, the project will fund in particular:
 - Several 1-month stays of international experts in Grenoble
 - Trips between Grenoble, Brest and Paris to collaborate with LOPS and LMD 
 
-Contact : Thierry Penduff
+** Contact : Thierry Penduff **
 
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/contacts.png" alt="eNATL60"/>
