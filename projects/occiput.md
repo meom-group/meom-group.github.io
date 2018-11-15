@@ -32,7 +32,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Related publications:
 
-  - (2018) Zanna, L., J.M. Brankart, M. Huber, S. Leroux, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. doi:10.1002/qj.3397, _(Accepted Author Manuscript)_, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
+  - (2018) Zanna, L., J.M. Brankart, M. Huber, S. Leroux, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. 2018;1–16; doi:10.1002/qj.3397, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
   
   - (2018) Penduff, T., G. Sérazin, S. Leroux, S. Close, J.-M. Molines, B. Barnier, L. Bessières, L. Terray, and G. Maze. Oceanography, 31(2). doi:10.5670/oceanog.2018.210. [*Chaotic variability of ocean heat content: Climate-relevant features and observational implications.*](https://doi.org/10.5670/oceanog.2018.210).
 
