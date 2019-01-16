@@ -32,6 +32,8 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Related publications:
 
+  - (2018) Llovel, W., T. Penduff, B. Meyssignac, J.-M. Molines, L. Terray, L. Bessières, and B. Barnier, Geophysical Research Letters, 45, doi: 10.1029/2018GL080838, [*Contributions of atmospheric forcing and chaotic ocean variability to regional sea level trends over 1993–2015.*](https://doi.org/10.1029/2018GL080838)
+
   - (2018) Zanna, L., J.M. Brankart, M. Huber, S. Leroux, T. Penduff, and P.D. Williams,  Q. J. R. Meteorol. Soc. 2018;1–16; doi:10.1002/qj.3397, [*Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions.*](http://dx.doi.org/10.1002/qj.3397)
   
   - (2018) Penduff, T., G. Sérazin, S. Leroux, S. Close, J.-M. Molines, B. Barnier, L. Bessières, L. Terray, and G. Maze. Oceanography, 31(2). doi:10.5670/oceanog.2018.210. [*Chaotic variability of ocean heat content: Climate-relevant features and observational implications.*](https://doi.org/10.5670/oceanog.2018.210).
