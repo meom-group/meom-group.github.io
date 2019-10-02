@@ -1,3 +1,17 @@
+- name : Sally Close
+  title : Post-Doc
+  email : close.png
+  image_nb : Close_nb.jpg
+  image_color : Close_color.jpg
+  post : 
+
+- name : Marina Duran
+  title : PhD Student
+  email : duran.png
+  image_nb : Duran_nb.jpg
+  image_color : Duran_color.jpg
+  post : 
+
 - name : Pierre-Antoine Bouttier
   title : Research Engineer (CNRS)
   email : bouttier.png
@@ -24,12 +38,6 @@
   image_color : Chekki_color.jpg
   post :
 
-- name : Pedro Colombo
-  title : PhD Student
-  email : colombo.png
-  image_nb : Colombo_nb.jpg
-  image_color : Colombo_color.jpg
-  post : 
  
 - name : Florent Garnier
   title : Post-Doc
@@ -61,4 +69,21 @@
   image_nb : Pierre_Rempal_nb.jpg
   image_color : Pierre_Rempal_color.jpg
   post : long-term visitor from  Nansen Center, Bergen, Norway. 
+
+- name : Ann Sophie Tissier
+  title : Post-Doc
+  email : tissier.png
+  image_nb : Tissier_nb.jpg
+  image_color : Tissier_color.jpg
+  post : 
+
+- name : Simon Verrier
+  title : Post-Doc
+  email : verrier.png
+  image_nb : Verrier_nb.jpg
+  image_color : Verrier_color.jpg
+  post :  
+
+
+
 

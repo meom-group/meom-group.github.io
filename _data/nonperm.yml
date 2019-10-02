@@ -10,8 +10,15 @@
   email : albert.png
   image_nb : Albert_nb.jpg
   image_color : Albert_color.jpg
-  post : 
+  post : long-term visitor from Ocean Next
   
+- name : Ghina Basharoush
+  title : 
+  email : basharoush.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
 - name : Laurent Brodeau
   title : Research scientist
   email : brodeau.png
@@ -21,18 +28,32 @@
   website : https://ocean-next.fr/team/LB/
   phone : +33 (0)4 4 76 82 70 76
 
-- name : Sally Close
+- name : Pedro Colombo
   title : Post-Doc
-  email : close.png
-  image_nb : Close_nb.jpg
-  image_color : Close_color.jpg
+  email : colombo.png
+  image_nb : Colombo_nb.jpg
+  image_color : Colombo_color.jpg
   post : 
 
-- name : Marina Duran
-  title : PhD Student
-  email : duran.png
-  image_nb : Duran_nb.jpg
-  image_color : Duran_color.jpg
+- name : Bruno Deremble
+  title : Visiting scientist
+  email : deremble.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
+- name : Bill Dewar
+  title : Visiting scientist
+  email : dewar.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
+- name : Imane Farouk
+  title : Post-Doc
+  email : farouk.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
   post : 
 
 - name : Ixetl Garcia
@@ -56,6 +77,13 @@
   image_color : Gulev_color.jpg
   post : 
   
+- name : Quentin Jamet	
+  title : Post-Doc
+  email : jamet.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
 - name : Florian Le Guillou
   title : PhD student
   email : leguillou.png
@@ -89,6 +117,13 @@
   post : 
   website : 
   
+- name : Olivier Narinc
+  title : 
+  email : narinc.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
 - name : Yeray Santana Falcon
   title : Post-Doc
   email : santana.png
@@ -96,19 +131,24 @@
   image_color : Santana-Falcon_color.jpg
   post :     
 
-- name : Ann Sophie Tissier
+- name : Takaya Uchida
   title : Post-Doc
-  email : tissier.png
-  image_nb : Tissier_nb.jpg
-  image_color : Tissier_color.jpg
+  email : uchida.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
   post : 
 
-- name : Simon Verrier
-  title : Post-Doc
-  email : verrier.png
-  image_nb : Verrier_nb.jpg
-  image_color : Verrier_color.jpg
-  post :  
+
+- name : Victor Van Gucht
+  title : Administrative Assistant
+  email : vangucht.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
+
+
+
 
 
 
