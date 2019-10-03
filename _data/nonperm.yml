@@ -43,11 +43,12 @@
   post : 
 
 - name : Bill Dewar
-  title : Visiting scientist
+  title : Visiting scientist (P.I. of the CONTaCTS project)
   email : dewar.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post : 
+  post : MOPGA Laureate
+  website : https://makeourplanetgreatagain-cnrs.com/booklet-of-the-laureates/
 
 - name : Imane Farouk
   title : Post-Doc
@@ -118,7 +119,7 @@
   website : 
   
 - name : Olivier Narinc
-  title : 
+  title : Research Engineer
   email : narinc.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
@@ -140,7 +141,7 @@
 
 
 - name : Victor Van Gucht
-  title : Administrative Assistant
+  title : European Project Manager
   email : vangucht.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
