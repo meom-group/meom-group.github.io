@@ -31,7 +31,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
    
 
 ### Related publications:
-  - (2019, in press) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and S. Leroux, Surveys in Geophysics, 45, doi: 10.1007/s10712-019-09571-7, [*Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos.*](https://doi.org/10.1007/s10712-019-09571-7)
+  - (2019) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and S. Leroux, Surveys in Geophysics, doi: 10.1007/s10712-019-09571-7, [*Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos.*](https://doi.org/10.1007/s10712-019-09571-7)
 
   - (2018) Llovel, W., T. Penduff, B. Meyssignac, J.-M. Molines, L. Terray, L. Bessières, and B. Barnier, Geophysical Research Letters, 45, doi: 10.1029/2018GL080838, [*Contributions of atmospheric forcing and chaotic ocean variability to regional sea level trends over 1993–2015.*](https://doi.org/10.1029/2018GL080838)
 
