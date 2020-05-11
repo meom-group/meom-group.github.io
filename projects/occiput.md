@@ -28,9 +28,11 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
-   
 
 ### Related publications:
+
+* (2020) Close, S., T. Penduff, S. Speich, and J.-M. Molines, Progress in Oceanography, 184, doi: 10.1016/j.pocean.2020.102314,  [*A means of estimating the intrinsic and atmospherically-forced  contributions to sea surface height variability applied to altimetric  observations* ](https://doi.org/10.1016/j.pocean.2020.102314).
+
   - (2019) Penduff, T., W. Llovel, S. Close, I. Garcia-Gomez, and S. Leroux, Surveys in Geophysics, doi: 10.1007/s10712-019-09571-7, [*Trends of Coastal Sea Level Between 1993 and 2015: Imprints of Atmospheric Forcing and Oceanic Chaos.*](https://doi.org/10.1007/s10712-019-09571-7). See the [*Link*](https://rdcu.be/bT49n)
 
   - (2018) Llovel, W., T. Penduff, B. Meyssignac, J.-M. Molines, L. Terray, L. Bessières, and B. Barnier, Geophysical Research Letters, 45, doi: 10.1029/2018GL080838, [*Contributions of atmospheric forcing and chaotic ocean variability to regional sea level trends over 1993–2015.*](https://doi.org/10.1029/2018GL080838)
@@ -55,16 +57,16 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 - (2015) G. Sérazin, T. Penduff, S. Grégorio, B. Barnier, J. M. Molines, and L. Terray. *Intrinsic variability of sea-level from global 1/12º ocean simulations: spatio-temporal scales*. Journal of Climate, 28:4279–4292.
 
 
-  
+
 ### Contact:
  [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
- 
+
 ### Dataset:
  The outputs of the OCCIPUT ensemble simulation are available upon request. Please contact [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
 
 ### Project participants:
  - **MEOM/LGGE**, Grenoble, France.
  - **CERFACS**, Toulouse, France.
-  
+
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-sponsors.png"/>
 
