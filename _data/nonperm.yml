@@ -50,13 +50,6 @@
   post : MOPGA Laureate
   website : https://makeourplanetgreatagain-cnrs.com/booklet-of-the-laureates/
 
-- name : Imane Farouk
-  title : Post-Doc
-  email : farouk.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
-
 - name : Ixetl Garcia
   title : PhD Student
   email : garcia.png
@@ -102,14 +95,6 @@
   website : https://ocean-next.fr/team/SL/
   phone : +33 (0)4 4 76 82 70 76
 
-- name : Redouane Lguensat
-  title : 
-  email : lguensat.png
-  image_nb : Lguensat_nb.jpg
-  image_color : Lguensat_color.jpg
-  post : Post-Doc
-  website : https://redouanelg.github.io/
-
 - name : Sammy Metref
   title : Post-Doc
   email : metref.png
@@ -125,29 +110,12 @@
   image_color : idea-icon-hi_color.png
   post : 
 
-- name : Yeray Santana Falcon
-  title : Post-Doc
-  email : santana.png
-  image_nb : Santana-Falcon_nb.jpg
-  image_color : Santana-Falcon_color.jpg
-  post :     
-
 - name : Takaya Uchida
   title : Post-Doc
   email : uchida.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : 
-
-
-- name : Victor Van Gucht
-  title : European Project Manager
-  email : vangucht.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
-
-
 
 
 

@@ -1,3 +1,46 @@
+- name : Imane Farouk
+  title : Post-Doc
+  email : farouk.png
+  image_nb : imane_couleur.jpg
+  image_color : imane_couleur.jpg
+  post :
+  
+- name : Redouane Lguensat
+  title :
+  email : lguensat.png
+  image_nb : Lguensat_nb.jpg
+  image_color : Lguensat_color.jpg
+  post : Post-Doc
+  website : https://redouanelg.github.io/
+
+- name : Yeray Santana Falcon
+  title : Post-Doc
+  email : santana.png
+  image_nb : Santana-Falcon_nb.jpg
+  image_color : Santana-Falcon_color.jpg
+  post :
+
+- name : Victor Van Gucht
+  title : European Project Manager
+  email : vangucht.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :
+  
+- name : Ann Sophie Tissier
+  title : Post-Doc
+  email : tissier.png
+  image_nb : Tissier_nb.jpg
+  image_color : Tissier_color.jpg
+  post :
+
+- name : Simon Verrier
+  title : Post-Doc
+  email : verrier.png
+  image_nb : Verrier_nb.jpg
+  image_color : Verrier_color.jpg
+  post :
+
 - name : Sally Close
   title : Post-Doc
   email : close.png
@@ -38,7 +81,6 @@
   image_color : Chekki_color.jpg
   post :
 
- 
 - name : Florent Garnier
   title : Post-Doc
   image_nb : Garnier_nb.jpg
@@ -63,26 +105,6 @@
   image_color : Merino_color.jpg
   post : 
 
-- name : Pierre Rampal
-  title : Research Scientist
-  email : rampal.png
-  image_nb : Pierre_Rempal_nb.jpg
-  image_color : Pierre_Rempal_color.jpg
-  post : long-term visitor from  Nansen Center, Bergen, Norway. 
-
-- name : Ann Sophie Tissier
-  title : Post-Doc
-  email : tissier.png
-  image_nb : Tissier_nb.jpg
-  image_color : Tissier_color.jpg
-  post : 
-
-- name : Simon Verrier
-  title : Post-Doc
-  email : verrier.png
-  image_nb : Verrier_nb.jpg
-  image_color : Verrier_color.jpg
-  post :  
 
 
 
