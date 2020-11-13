@@ -31,7 +31,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Related publications:
 
-* (2020) Zhen, Y., P. Tandeo, S. Leroux, S. Metref, J. Le Sommer, and T. Penduff,  J. Atmos. Oceanic Technol., 1–46, doi: 10.1175/JTECH-D-20-0001.1, [An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico](https://doi.org/10.1175/JTECH-D-20-0001.1).
+* (2020) Zhen, Y., P. Tandeo, S. Leroux, S. Metref, J. Le Sommer, and T. Penduff,  J. Atmos. Oceanic Technol., 1–46, doi: 10.1175/JTECH-D-20-0001.1, [*An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico*](https://doi.org/10.1175/JTECH-D-20-0001.1).
 
 - (2020) Close, S., T. Penduff, S. Speich, and J.-M. Molines, Progress in Oceanography, 184, doi: 10.1016/j.pocean.2020.102314,  [*A means of estimating the intrinsic and atmospherically-forced  contributions to sea surface height variability applied to altimetric  observations* ](https://doi.org/10.1016/j.pocean.2020.102314).
 
