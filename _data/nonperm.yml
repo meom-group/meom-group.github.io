@@ -18,8 +18,8 @@
   image_nb : Brodeau_nb.jpg
   image_color : Brodeau_color.jpg
   post : long-term visitor from Ocean Next  
-  website : https://ocean-next.fr/team/LB/
-  phone : +33 (0)4 4 76 82 70 76
+  website : 
+  phone : 
 
 - name : Bill Dewar
   title : Visiting scientist (P.I. of the CONTaCTS project)
@@ -57,8 +57,8 @@
   image_nb : Leroux_nb.jpg
   image_color : Leroux_color.jpg
   post : long-term visitor from Ocean Next
-  website : https://ocean-next.fr/team/SL/
-  phone : +33 (0)4 4 76 82 70 76
+  website : 
+  phone : 
 
 - name : Sammy Metref
   title : Post-Doc
@@ -75,14 +75,21 @@
   image_color : idea-icon-hi_color.png
   post : 
 
+- name : Clément Ubelmann
+  title : Research scientist
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : long-term visitor from Ocean Next  
+  website : 
+  phone : 
+  
 - name : Takaya Uchida
   title : Post-Doc
   email : uchida.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : 
-
-
 
 
 
