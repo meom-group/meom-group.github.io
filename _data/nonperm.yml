@@ -1,10 +1,3 @@
-- name : Adekunle Ajayi
-  title : PhD Student
-  email : adekunle.png
-  image_nb : Ajayi_nb.jpg
-  image_color : Ajayi_color.jpg
-  post : 
-
 - name : Aurélie Albert
   title : Research Engineer
   email : albert.png
@@ -28,20 +21,6 @@
   website : https://ocean-next.fr/team/LB/
   phone : +33 (0)4 4 76 82 70 76
 
-- name : Pedro Colombo
-  title : Post-Doc
-  email : colombo.png
-  image_nb : Colombo_nb.jpg
-  image_color : Colombo_color.jpg
-  post : 
-
-- name : Bruno Deremble
-  title : Visiting scientist
-  email : deremble.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
-
 - name : Bill Dewar
   title : Visiting scientist (P.I. of the CONTaCTS project)
   email : dewar.png
@@ -49,21 +28,7 @@
   image_color : idea-icon-hi_color.png
   post : MOPGA Laureate
   website : https://makeourplanetgreatagain-cnrs.com/booklet-of-the-laureates/
-
-- name : Ixetl Garcia
-  title : PhD Student
-  email : garcia.png
-  image_nb : Garcia_nb.jpg
-  image_color : Garcia_color.jpg
-  post : 
-  
-- name : Laura Gomez Navarro
-  title : PhD Student
-  email : gomez.png
-  image_nb : Gomez_nb.jpg
-  image_color : Gomez_color.jpg
-  post : 
-  
+ 
 - name : Serguei Gulev
   title : Visiting Scientist
   email : gulev.png
