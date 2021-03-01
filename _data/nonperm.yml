@@ -5,6 +5,13 @@
   image_color : Albert_color.jpg
   post : long-term visitor from Ocean Next
   
+- name : Alexandre Berger Angelini
+  title : Master Student
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  
 - name : Ghina Basharoush
   title : PhD Student
   email : basharoush.png
@@ -69,12 +76,33 @@
   website : 
   
 - name : Olivier Narinc
-  title : Research Engineer
+  title : PhD student
   email : narinc.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : 
-
+  
+- name : Mikhaïl Popov
+  title : Post-Doc
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+  
+- name : Matthias Renaud
+  title : Master Student
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  
+- name : Luz Andrea Silva Torres
+  title : Master Student
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  
 - name : Clément Ubelmann
   title : Research scientist
   email : 
