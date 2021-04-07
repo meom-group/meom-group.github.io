@@ -1,7 +1,6 @@
 ---
 layout: pagemd
 title: CONTaCTS
-text: The "Consistent OceaN Turbulence for ClimaTe Simulators" project aims to characterize and quantify the influence of sub-mesoscale oceanic motions (scales of about 10km) on larger-scale oceanic dynamics, up to the scale of oceanic basins. A major goal of this research is to parameterize this missing influence in numerical ocean models that do not resolve sub-mesoscale motions, and that will be used for tomorrow's IPCC climate projections.
 permalink: /projects/contacts/
 ---
 
