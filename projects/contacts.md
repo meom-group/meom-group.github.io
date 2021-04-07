@@ -4,7 +4,7 @@ title: CONTaCTS
 permalink: /projects/contacts/
 ---
 
-Project funded by the Make Our Planet Great Again program (2019-2021). Principal investigators: W.K. Dewar (Florida State University) and MEOM scientists. Collaborations in LOPS (Brest) and LMD (Paris).
+Project funded by the Make Our Planet Great Again program (2019-2022). Principal investigators: W.K. Dewar (Florida State University) and MEOM scientists. Collaborations in LOPS (Brest) and LMD (Paris).
 
 ## Consistent OceaN Turbulence for ClimaTe Simulators
 
@@ -14,13 +14,14 @@ The dynamical sources and spontaneous cascade of mesoscale turbulence towards la
 
 The CONTaCTS projects aims to study and parameterize this missing effect where it is critical: within the surface and bottom boundary layers of the ocean, where it interacts with the atmosphere and topography. We propose to develop such parameterizations for O(10km) resolution models, based on the analysis of existing O(1km) resolution North Atlantic simulations ([NATL60](http://meom-group.github.io/swot-natl60/), see a relative vorticity snapshot in the figure below).
 
-The CONTaCTS project team gathers experts in Geophysical Fluid Dynamics, submeso-/meso-scale turbulence, and high-resolution ocean modeling. The project will contribute to improve ocean models (in particular NEMO), future climate simulators, interpret and exploit future observations at very high resolution (SWOT satellite altimeter to be launched in 2021), with foreseen benefits for operational oceanography.
+The CONTaCTS project team gathers experts in Geophysical Fluid Dynamics, submeso-/meso-scale turbulence, and high-resolution ocean modeling. The project will contribute to improve ocean models (in particular NEMO), future climate simulators, interpret and exploit future observations at very high resolution (SWOT satellite altimeter to be launched in 2022), with foreseen benefits for operational oceanography.
 
-Over the next 3 years, the project will fund in particular:
-- three 6-month stays for W.K. Dewar in the MEOM team
-- 2 postdoctoral positions for 18 months, renewable once (one available, see [here](http://meom-group.github.io/jobs/))
-- Several 1-month stays of international experts in Grenoble
-- Trips between Grenoble, Brest and Paris to collaborate with LOPS and LMD 
+The project is funding in particular:
+
+ - Four 6-month stays for W.K. Dewar in the MEOM team
+ - Two postdoctoral researchers during 36 months
+ - Several 1-month stays of international experts in Grenoble
+ - Trips between Grenoble, Brest and Paris to collaborate with LOPS and LMD
 
 **Contact : Thierry Penduff**
 
