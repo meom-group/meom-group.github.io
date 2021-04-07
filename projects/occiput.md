@@ -6,6 +6,9 @@ permalink: /projects/occiput/
 
 Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
+Most of the analyses of the OCCIPUT ensemble simulations have been performed in the framework
+of the [PIRATE project](https://www.dropbox.com/s/r8k78y7x1c12f49/PIRATE_PENDUFF.pdf?dl=0)
+
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
 
 
@@ -29,7 +32,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
   -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
 
-### Related publications:
+### Publications related to OCCIPUT and PIRATE:
 
 * (2021) Fedele, G., T. Penduff, S. Pierini, M.C. Alvarez-Castro, A. Bellucci, and S. Masina, Climate Dynamics, accepted, *Interannual-to-decadal variability of the Kuroshio extension: Analyzing an ensemble of global hindcasts from a Dynamical System viewpoint*
 
