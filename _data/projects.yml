@@ -1,7 +1,7 @@
 - title : CONTaCTS - Consistent OceaN Turbulence for Climate Simulators
   image :
-  date : 2019-2021
-  text : 
+  date : 2019-2022
+  text : The "Consistent OceaN Turbulence for ClimaTe Simulators" project aims to characterize and quantify the influence of sub-mesoscale oceanic motions (scales of about 10km) on larger-scale oceanic dynamics, up to the scale of oceanic basins. A major goal of this research is to parameterize this missing influence in numerical ocean models that do not resolve sub-mesoscale motions, and that will be used for tomorrow's IPCC climate projections.
   link : https://meom-group.github.io/projects/contacts
   ancre : contacts
 
