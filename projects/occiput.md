@@ -31,6 +31,13 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Related publications:
 
+* (2021) Fedele, G., T. Penduff, S. Pierini, M.C. Alvarez-Castro, A. Bellucci, and S. Masina, Climate Dynamics, accepted, *Interannual-to-decadal variability of the Kuroshio extension: Analyzing an ensemble of global hindcasts from a Dynamical System viewpoint*
+
+* (2021) Carret, A., W. Llovel, T. Penduff, and J.-M. Molines, Journal of Geophysical Research - Oceans, https://doi.org/10.1029/2020JC017123, [*Atmospherically-forced and chaotic interannual variability of regional sea level and its components over 1993-2015*](https://doi.org/10.1029/2020JC017123)
+
+* (2021) Cravatte, S., G. Sérazin, T. Penduff, and C. Menkes, Ocean Sci., 17, 487–507, https://doi.org/10.5194/os-17-487-2021, [*Imprint of chaotic ocean variability on transports in the Southwest Pacific at interannual timescales*](https://os.copernicus.org/articles/17/487/2021/ )
+
+
 * (2020) Zhen, Y., P. Tandeo, S. Leroux, S. Metref, J. Le Sommer, and T. Penduff,  J. Atmos. Oceanic Technol., 1–46, doi: 10.1175/JTECH-D-20-0001.1, [*An adaptive optimal interpolation based on analog forecasting: application to SSH in the Gulf of Mexico*](https://doi.org/10.1175/JTECH-D-20-0001.1).
 
 - (2020) Close, S., T. Penduff, S. Speich, and J.-M. Molines, Progress in Oceanography, 184, doi: 10.1016/j.pocean.2020.102314,  [*A means of estimating the intrinsic and atmospherically-forced  contributions to sea surface height variability applied to altimetric  observations* ](https://doi.org/10.1016/j.pocean.2020.102314).
