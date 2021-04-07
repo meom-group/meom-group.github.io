@@ -44,7 +44,7 @@
 - title : PIRATE - Probabilistic InteRpretation of Altimeter and in-siTu obsErvations
   image :
   date : 2017-2020
-  text : Our CHAOCEAN and OCCIPUT projects have shown that the turbulent ocean spontaneously generates a chaotic variability that strongly imprints all observed variables, from eddy scales to basin/multi-decadal scales. The PIRATE project (IGE, LMD, LOPS, LEGOS, CERFACS) will probabilistically characterize the imprints on observations (SLA, SST, Heat Content, MOC, etc) of this random-phase broadband “noise”, investigate its modulation by the atmosphere, and assess the representativeness of individual satellite/in-situ observations for the monitoring/reanalysis of the variability and long-term changes in the ocean. The PIRATE publications are listed in the [OCCIPUT webpage](https://meom-group.github.io/projects/occiput/)
+  text : Our CHAOCEAN and OCCIPUT projects have shown that the turbulent ocean spontaneously generates a chaotic variability that strongly imprints all observed variables, from eddy scales to basin/multi-decadal scales. The PIRATE project (IGE, LMD, LOPS, LEGOS, CERFACS) will probabilistically characterize the imprints on observations (SLA, SST, Heat Content, MOC, etc) of this random-phase broadband “noise”, investigate its modulation by the atmosphere, and assess the representativeness of individual satellite/in-situ observations for the monitoring/reanalysis of the variability and long-term changes in the ocean. The PIRATE publications are listed in the OCCIPUT webpage : https://meom-group.github.io/projects/occiput/
   link: https://www.dropbox.com/s/r8k78y7x1c12f49/PIRATE_PENDUFF.pdf?dl=0
   ancre : pirate
 
