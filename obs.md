@@ -1,9 +1,9 @@
 ---
 layout: pagemd
 title: Axis 3 – Data assimilation, interpretation of observations, design of observation networks
-permalink: /climate/
+permalink: /obs/
 prevtext: Axis 2 - Interactions between ocean dynamics and other components of the climate system
-prevlink: forecast
+prevlink: interact
 nextext: Scientific software
 nextlink: nemo
 ---
