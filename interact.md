@@ -3,9 +3,9 @@ layout: pagemd
 title: Axis 2 - Interactions between ocean dynamics and other components of the climate system
 permalink: /forecast/
 prevtext: Axis 1 – Scale interactions in the ocean
-prevlink: unravel
+prevlink: scale
 nextext: Axis 3 – Data assimilation, interpretation of observations, design of observation networks
-nextlink: climate
+nextlink: obs
 ---
 
 
