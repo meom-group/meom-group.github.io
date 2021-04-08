@@ -4,8 +4,8 @@
   picg : assets/img/carousel/unravelg.png
   picm : assets/img/carousel/unravelm.png
   pics : assets/img/carousel/unravels.png
-  text : Exploring the ocean fine scales motions
-  link : unravel
+  text : Scale interactions in the ocean 
+  link : scale
   colorf : black
   colorb : white
 
@@ -14,8 +14,8 @@
   picg : assets/img/carousel/chaos3g.png
   picm : assets/img/carousel/chaos3m.png
   pics : assets/img/carousel/chaos3s.png
-  text : Quantifying chaos and uncertainties in the ocean evolution
-  link : forecast
+  text : Interactions between ocean dynamics and other components of the climate system 
+  link : interact
   colorf : black
   colorb : white
 
@@ -24,8 +24,8 @@
   picg : assets/img/carousel/climateg.png
   picm : assets/img/carousel/climatem.png
   pics : assets/img/carousel/climates.png
-  text : Understanding the ocean role in the climate machinery
-  link : climate
+  text : Data assimilation, interpretation of observations, design of observation networks 
+  link : obs
   colorf : white
   colorb : black
 
