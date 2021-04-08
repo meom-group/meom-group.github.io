@@ -1,11 +1,11 @@
 ---
 layout: pagemd
 title: Axis 1 – Scale interactions in the ocean
-permalink: /unravel/
+permalink: /scale/
 prevtext: About the MEOM team
 prevlink: 
 nextext: Axis 2 - Interactions between ocean dynamics and other components of the climate system
-nextlink: forecast
+nextlink: interact
 ---
 
 
