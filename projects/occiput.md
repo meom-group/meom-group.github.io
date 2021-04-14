@@ -7,7 +7,7 @@ permalink: /projects/occiput/
 Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
 
 Most of the analyses of the OCCIPUT ensemble simulations have been performed in the framework
-of the [PIRATE project](https://www.dropbox.com/s/r8k78y7x1c12f49/PIRATE_PENDUFF.pdf?dl=0)
+of the [PIRATE project](https://www.dropbox.com/s/ttanogxa1vbvuix/PIRATE_PENDUFF.pdf?dl=0)
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
 
