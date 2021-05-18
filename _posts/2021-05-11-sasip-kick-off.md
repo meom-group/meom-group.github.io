@@ -1,5 +1,5 @@
 ---
-title: SASIP kick off meeting May 11, 12 !
+title: SASIP kick off meeting 
 featured: /assets/img/news/kick-off-thumbnail.png
 layout: page
 link: https://sasip-climate.github.io/news/kick-off/
