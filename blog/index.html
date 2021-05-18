@@ -39,7 +39,7 @@ layout: default
 												<a href="#" class="image left"><img src="{{ site.baseurl }}{{ post.featured }}" alt=""></a>
 												<div class="inner">
 													<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - <em> Posted {{ post.date | date_to_string }} </em></h3>
-													{{ post }}
+													{{ post.content }}
 													{% if post.link %} 
                             							<p class="date"> <a href="{{post.link}}"> En savoir plus </a> </p>
                         							{% endif %}
