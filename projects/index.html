@@ -45,7 +45,7 @@ layout: default
                 </div>
                 <div id="sousanr" style="display:none">
                     <div class="thumbnail">
-                        <a href="http://www.agence-nationale-recherche.fr"> ANR </a>  
+                        <a href="http://www.agence-nationale-recherche.fr"> ANR </a>
                     </div>
                 </div>
             </div>
@@ -73,15 +73,13 @@ layout: default
             <h2 class="welcome-banner-heading">Ongoing projects</h2>
         </div>
     </div>
-</section>
-
 <div class="container">
     {% for post in site.data.projects %}
         <div class="panel panel-default" id="{{post.ancre}}">
             <div class="panel-body">
                 <div class="row">
                     <div class="col-md-2">
-                        {% if post.image %} 
+                        {% if post.image %}
                             <img class="img-responsive img-centered" src="{{site.baseurl}}/assets/img/projects/{{post.image}}" alt="">
                         {% endif %}
                     </div>
@@ -89,7 +87,7 @@ layout: default
                         <h3 class="bio-heading"> {{post.title}} </h3>
                         <p class="date"> {{post.date}} </p>
                         <p> {{post.text}} </p>
-                        {% if post.link %} 
+                        {% if post.link %}
                             <p class="date"> <a href="{{post.link}}"> Read More </a> </p>
                         {% endif %}
                     </div>
@@ -99,4 +97,33 @@ layout: default
     {% endfor %}
 </div>
 
+<div class="container" id="welcome">
+    <div class="welcome-banner">
+        <h2 class="welcome-banner-heading">Past projects</h2>
+    </div>
+</div>
+<div class="container">
+{% for post in site.data.pastprojects %}
+    <div class="panel panel-default" id="{{post.ancre}}">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-2">
+                    {% if post.image %}
+                        <img class="img-responsive img-centered" src="{{site.baseurl}}/assets/img/projects/{{post.image}}" alt="">
+                    {% endif %}
+                </div>
+                <div class="col-md-9">
+                    <h3 class="bio-heading"> {{post.title}} </h3>
+                    <p class="date"> {{post.date}} </p>
+                    <p> {{post.text}} </p>
+                    {% if post.link %}
+                        <p class="date"> <a href="{{post.link}}"> Read More </a> </p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
 
+</section>

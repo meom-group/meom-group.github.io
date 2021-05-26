@@ -1,17 +1,17 @@
 - title : SEAMLESS - Services based on Ecosystem data AssiMiLation Essential Science and Solutions
-  image : 
+  image :
   date : 2021-2023
-  text : SEAMLESS aims at improving the current European capability to simulate and predict the state of marine ecosystems. The project focuses on state indicators that are linked to the ocean “health” (e.g. to oxygenation, acidification, eutrophication), “services” (e.g. to sustainable aquaculture) and “response” to climate change (e.g. to the transfer of carbon in the ocean depths). 
+  text : SEAMLESS aims at improving the current European capability to simulate and predict the state of marine ecosystems. The project focuses on state indicators that are linked to the ocean “health” (e.g. to oxygenation, acidification, eutrophication), “services” (e.g. to sustainable aquaculture) and “response” to climate change (e.g. to the transfer of carbon in the ocean depths).
   link : https://www.seamlessproject.org/Home
   ancre : seamless
 
 - title : SASIP - Scale Aware Sea-Ice Project
-  image : 
+  image :
   date : 2021-2027
   text : SASIP is an international collaborative project to better understand the impact of amplified warming in polar regions, through the development of a new sea ice modelling paradigm.
   link : https://sasip-climate.github.io/
   ancre : sasip
-  
+
 - title : CONTaCTS - Consistent OceaN Turbulence for Climate Simulators
   image :
   date : 2019-2022
@@ -26,54 +26,16 @@
   link : http://immerse-ocean.eu/
   ancre : immerse
 
-- title : BOOST-SWOT - Building Of Ocean Surface Topography maps from SWOT. 
+- title : BOOST-SWOT - Building Of Ocean Surface Topography maps from SWOT.
   image :
   date : 2018-2021
   text : The goal of BOOST-SWOT is to design new algorithms able to provide altimetry-derived SSH gridded products resolving at least the upper spectrum of the sub-mesoscale dynamics (> 50 km), incorporating SWOT data expected in 2021.
   link : https://meom-group.github.io/projects/boost-swot/
   ancre : boost-swot
 
-- title : Ocean modelling and data assimilation for SWOT mission - Preparing the inversion of SWOT data. 
+- title : Ocean modelling and data assimilation for SWOT mission - Preparing the inversion of SWOT data.
   image :
   date : 2017-2020
-  text : The Surface Water and Ocean Topography mission will provide observations of sea surface height and surface roughness at scales <100 km, therefore opening the way for the systematic study of ocean turbulence down to the sub-mesoscales. The mission is in particular expected to yield a breakthrough in our understanding of energy pathways toward small scales in the global ocean and of the vertical exchanges between the surface layers and the ocean interior. 
+  text : The Surface Water and Ocean Topography mission will provide observations of sea surface height and surface roughness at scales <100 km, therefore opening the way for the systematic study of ocean turbulence down to the sub-mesoscales. The mission is in particular expected to yield a breakthrough in our understanding of energy pathways toward small scales in the global ocean and of the vertical exchanges between the surface layers and the ocean interior.
   link : https://meom-group.github.io/projects/swot-st/
   ancre : swot-st
-
-- title : OCCIPUT Oceanic Chaos - ImPacts, strUcture, predicTability
-  image : 
-  date : 2014-2018
-  text : Turbulent ocean models spontaneously generate a chaotic variability reaching multi­decadal/basin scales. How this low­-frequency chaos impacts climate-relevant oceanic indices is an important unsettled question. To separate this chaos from the atmospherically-forced response, MEOM and CERFACS have performed a pioneering 50-member ensemble of 1/4° global ocean/sea-ice simulations (1960-2015), which were perturbed initially but driven by the same atmospheric evolution. The results reveal the importance of the oceanic chaos, its large spatiotemporal scales, its its modulation by the atmosphere, and raise new issues about the detection/attribution of climate change in the ocean and the potential impact of this low-frequency chaos on the atmosphere.
-  link : https://meom-group.github.io/projects/occiput
-  ancre : occiput
-
-
-- title : PIRATE - Probabilistic InteRpretation of Altimeter and in-siTu obsErvations
-  image :
-  date : 2017-2020
-  text : Our CHAOCEAN and OCCIPUT projects have shown that the turbulent ocean spontaneously generates a chaotic variability that strongly imprints all observed variables, from eddy scales to basin/multi-decadal scales. The PIRATE project (IGE, LMD, LOPS, LEGOS, CERFACS) will probabilistically characterize the imprints on observations (SLA, SST, Heat Content, MOC, etc) of this random-phase broadband “noise”, investigate its modulation by the atmosphere, and assess the representativeness of individual satellite/in-situ observations for the monitoring/reanalysis of the variability and long-term changes in the ocean. The PIRATE publications are listed in the <a href="https://meom-group.github.io/projects/occiput"> OCCIPUT webpage </a>
-  link: https://www.dropbox.com/s/ttanogxa1vbvuix/PIRATE_PENDUFF.pdf?dl=0
-  ancre : pirate
-
-- title : MOMOMS - Merging Ocean Models and Observations at Mesoscale and Submesoscale
-  image :
-  date : 2017-2020
-  text : MOMOMS focuses on the development of tools and methods dedicated to increase the resolution of satellite-derived SSH datasets and subsequent products. It builds upon the high expertise of researchers, engineers and students in France and Europe, covering physical oceanography, numerical oceanography, operational oceanography, data assimilation, image processing and applied mathematics.
-  ancre : momoms
-
-- title : AtlantOS
-  image : 
-  date : 2015-2019
-  text : The vision of AtlantOS is to improve and innovate Atlantic observing by using the Framework of Ocean Observing to obtain an international, more sustainable, more efficient, more integrated, and fit-for-purpose system. Hence, the AtlantOS initiative will have a long-lasting and sustainable contribution to the societal, economic and scientific benefit arising from this integrated approach. This will be achieved by improving the value for money, extent, completeness, quality and ease of access to Atlantic Ocean data required by industries, product supplying agencies, scientist and citizens.
-  link : https://www.atlantos-h2020.eu/
-  ancre : atlantos
-  
-- title : GDRI DRAKKAR -  high-resolution global ocean/sea-ice modelling with NEMO
-  image : 
-  date : 2014-2017
-  text : DRAKKAR is a scientific and technical coordination between French research teams (LGGE-Grenoble, LPO-Brest, LOCEAN-Paris), MERCATOR-ocean, NOC Southampton, IFM-Geomar Kiel, and other  teams in Europe and Canada. We propose to design, carry out, assess, and distribute high-resolution global ocean/sea-ice numerical simulations based on the NEMO platform (www.nemo-ocean.eu) performed over long periods (five decades or more), and to improve and maintain a hierarchy of state-of-the-art ocean/sea-ice model configurations for operational and research applications.
-  link : https://meom-group.github.io/projects/drakkar
-  ancre : drakkar
-
-
-
