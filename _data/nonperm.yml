@@ -50,6 +50,13 @@
   image_color : idea-icon-hi_color.png
   post : 
 
+- name : Arthur KOOSHMANIAN
+  title : Student Engineer
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  
 - name : Florian Le Guillou
   title : PhD student
   email : leguillou.png
@@ -96,12 +103,6 @@
   image_color : idea-icon-hi_color.png
   post : 
   
-- name : Luz Andrea Silva Torres
-  title : Master Student
-  email : 
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
   
 - name : Clément Ubelmann
   title : Research scientist
