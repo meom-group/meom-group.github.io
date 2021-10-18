@@ -1,5 +1,5 @@
 ---
-title: New IGE project : the Scale Aware Sea Ice Project (SASIP)
+title: New IGE project, the Scale Aware Sea Ice Project (SASIP)
 featured: /assets/img/news/ice-logo.jpg
 layout: page
 link: https://www.ige-grenoble.fr/Nouveau-projet-a-l-IGE-the-Scale
