@@ -5,12 +5,6 @@
   image_color : Albert_color.jpg
   post : 
   
-- name : Alexandre Berger Angelini
-  title : Master Student
-  email : 
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
   
 - name : Ghina Basharoush
   title : PhD Student
@@ -24,24 +18,18 @@
   email : brodeau.png
   image_nb : Brodeau_nb.jpg
   image_color : Brodeau_color.jpg
-  post : long-term visitor from Ocean Next  
+  post :  
   website : 
   phone : 
 
-- name : Bill Dewar
-  title : Visiting scientist (P.I. of the CONTaCTS project)
-  email : dewar.png
+- name : Arthur Capet
+  title : Post-Doc
+  email : capet.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post : MOPGA Laureate
-  website : https://makeourplanetgreatagain-cnrs.com/booklet-of-the-laureates/
- 
-- name : Serguei Gulev
-  title : Visiting Scientist
-  email : gulev.png
-  image_nb : Gulev_nb.jpg
-  image_color : Gulev_color.jpg
-  post : 
+  post :  
+  website : 
+  phone : 
   
 - name : Quentin Jamet	
   title : Post-Doc
@@ -50,12 +38,20 @@
   image_color : idea-icon-hi_color.png
   post : 
 
-- name : Arthur KOOSHMANIAN
-  title : Student Engineer
-  email : 
+- name : Emmanuel J. Johnson
+  title : Post-Doc
+  email : johnson.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : 
+
+- name : Alexandre Legay
+  title : PhD student
+  email : leguillou.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  website : 
   
 - name : Florian Le Guillou
   title : PhD student
@@ -70,7 +66,7 @@
   email : leroux2.png
   image_nb : Leroux_nb.jpg
   image_color : Leroux_color.jpg
-  post : long-term visitor from Ocean Next
+  post : 
   website : 
   phone : 
 
@@ -102,14 +98,13 @@
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post : 
-  
-- name : Matthias Renaud
-  title : Master Student
-  email : 
+
+- name : Natalia Tilinina
+  title : Post-Doc
+  email : johnson.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post : 
-  
+  post :   
   
 - name : Clément Ubelmann
   title : Research scientist
