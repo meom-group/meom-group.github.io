@@ -1,17 +1,6 @@
-- name : Aurélie Albert
-  title : Research Engineer
-  email : albert.png
-  image_nb : Albert_nb.jpg
-  image_color : Albert_color.jpg
-  post : 
+
   
-  
-- name : Ghina Basharoush
-  title : PhD Student
-  email : basharoush.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
+
 
 - name : Laurent Brodeau
   title : Research scientist
@@ -30,6 +19,20 @@
   post :  
   website : 
   phone : 
+  
+- name : Anass El Aouni
+  title : Post-Doc
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+  
+- name : Anastasiia Gorbunova
+  title : Post-Doc
+  email : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
   
 - name : Quentin Jamet	
   title : Post-Doc
