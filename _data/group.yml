@@ -34,15 +34,6 @@
   phone : +33 (0) 4 76 82 50 61
   
 
-- name : Bernard Barnier
-  title : 
-  email : barnier.png
-  image_nb : Barnier_nb.jpg
-  image_color : Barnier_color.jpg
-  post : Senior Scientist (CNRS)
-  website : http://pp.ige-grenoble.fr/pageperso/barnierb/
-  phone : +33 (0) 4 76 82 50 66
-
 - name : Jean-Michel Brankart
   title : 
   email : brankart.png
@@ -97,5 +88,10 @@
   phone : +33 (0) 4 76 82 50 18
 
 
-
+- name : Aurélie Albert
+  title : 
+  email : albert.png
+  image_nb : Albert_nb.jpg
+  image_color : Albert_color.jpg
+  post : Research Engineer (CNRS)
 
