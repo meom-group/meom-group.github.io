@@ -34,7 +34,12 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 ### Publications related to OCCIPUT and PIRATE:
 
-* (2021) Zhao, M., R. Ponte, T. Penduff, S. Close, W. Llovel, and J.M. Molines : [*Imprints of ocean chaotic intrinsic variability on bottom pressure and implications for data and model analyses*. Geophysical Research Letters.](https://doi.org/10.1029/2021GL096341)
+* (2022) Hogg, A.McC., T. Penduff, S.E. Close, W.K. Dewar, N.C. Constantinou, and J.M. Martinez-Moreno, https://doi.org/10.1029/2022JC018440 [*Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics*, Journal of Geophysical Research](https://doi.org/10.1029/2022JC018440)
+
+* (2022) Llovel, W., N. Kolodziejczyk, S. Close, T. Penduff, J.-M. Molines, and L. Terray, https://doi.org/10.1088/1748-9326/ac5f93 [*Intrinsic ocean variability in decadal regional sea level and ocean heat content trends using synthetic profiles.* Environmental Research Letters](https://doi.org/10.1088/1748-9326/ac5f93)
+
+
+* (2021) Zhao, M., R. Ponte, T. Penduff, S. Close, W. Llovel, and J.M. Molines, [*Imprints of ocean chaotic intrinsic variability on bottom pressure and implications for data and model analyses*. Geophysical Research Letters.](https://doi.org/10.1029/2021GL096341)
 
 * (2021) Fedele, G., T. Penduff, S. Pierini, M.C. Alvarez-Castro, A. Bellucci, and S. Masina, Climate Dynamics, accepted, *Interannual-to-decadal variability of the Kuroshio extension: Analyzing an ensemble of global hindcasts from a Dynamical System viewpoint*
 
