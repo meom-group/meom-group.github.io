@@ -16,7 +16,7 @@ The CONTaCTS projects aims to study and parameterize this missing effect where i
 
 The CONTaCTS project team gathers experts in Geophysical Fluid Dynamics, submeso-/meso-scale turbulence, and high-resolution ocean modeling. The project will contribute to improve ocean models (in particular NEMO), future climate simulators, interpret and exploit future observations at very high resolution (SWOT satellite altimeter to be launched in late 2022), with foreseen benefits for operational oceanography.
 
-Publications : https://www.researchgate.net/project/CONTAcTS
+Publications : [https://www.researchgate.net/project/CONTAcTS](https://www.researchgate.net/project/CONTAcTS)
 
 **Contact : Thierry Penduff**
 
