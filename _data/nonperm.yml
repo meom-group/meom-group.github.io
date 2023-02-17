@@ -5,14 +5,43 @@
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
-  
+
+- name : Valentin Bellemin Laponnaz
+  title : PhD student
+  email : bellemin.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+
+- name : Laurent Brodeau
+  title : Research scientist
+  email : brodeau-univ.png
+  image_nb : Brodeau_nb.jpg
+  image_color : Brodeau_color.jpg
+  post :  long-term visitor from Datlas 
+  website : 
+  phone : 
+
+- name : Nicolas Chiabrando
+  title : Student
+  email : chiabrando.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+
+- name : Alessio Colella
+  title : PhD Student
+  email : colella.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+
 - name : Anastasiia Gorbunova
   title : Post-Doc
   email : gorbunova.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
-
 
 - name : J. Emmanuel Johnson
   title : Post-Doc
@@ -30,6 +59,15 @@
   post : 
   website : 
 
+- name : Stephanie Leroux
+  title : Research scientist
+  email : leroux-univ.png
+  image_nb : Leroux_nb.jpg
+  image_color : Leroux_color.jpg
+  post : long-term visitor from Datlas 
+  website : 
+  phone : 
+  
 - name : Loïc Macé
   title : PhD student
   email : mace.png
@@ -37,8 +75,22 @@
   image_color : idea-icon-hi_color.png
   post : 
   website : 
-
   
+- name : Sammy Metref
+  title : Post-Doc
+  email : metref.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : long-term visitor from Datlas 
+  website : 
+
+- name : Lennard Miller
+  title : PhD student
+  email : miller.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+
 - name : Olivier Narinc
   title : PhD student
   email : narinc.png
@@ -52,51 +104,31 @@
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
-
   
 - name : Luz Andrea Silva Torres
-  title : Post-Doc
+  title : Student
   email : torres.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
-  
-    
+      
 - name : Adrien Stella
-  title : Post-Doc
+  title : Engineer
   email : stella.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
   
-    
-- name : Valentin Bellemin Laponnaz
-  title : Post-Doc
-  email : bellemin.png
+- name : Clément Ubelmann
+  title : Research scientist
+  email : ubeldatlas.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post :  
-  
-      
-- name : Lennard Miller
-  title : Post-Doc
-  email : miller.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-  
-        
-- name : Nicolas Chiabrando
-  title : Post-Doc
-  email : chiabrando.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-  
-        
-- name : Alessio Colella
-  title : Post-Doc
-  email : colella.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
+  post : long-term visitor from Datlas  
+  website : 
+  phone : 
+
+
+
+
+

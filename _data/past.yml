@@ -5,15 +5,6 @@
   image_color : idea-icon-hi_color.png
   post :   
   
-- name : Clément Ubelmann
-  title : Research scientist
-  email : ubeldatlas.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : long-term visitor from Datlas  
-  website : 
-  phone : 
-  
 - name : Takaya Uchida
   title : Post-Doc
   email : uchida.png
@@ -21,24 +12,7 @@
   image_color : takaya_color.png
   website : https://roxyboy.github.io/
   post : 
-  
-- name : Sammy Metref
-  title : Post-Doc
-  email : metref.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
-  website : 
-  
-- name : Stephanie Leroux
-  title : Research scientist
-  email : leroux-univ.png
-  image_nb : Leroux_nb.jpg
-  image_color : Leroux_color.jpg
-  post : 
-  website : 
-  phone : 
-  
+
 - name : Florian Le Guillou
   title : PhD student
   email : leguillou.png
@@ -46,15 +20,6 @@
   image_color : idea-icon-hi_color.png
   post : 
   website : 
-
-- name : Laurent Brodeau
-  title : Research scientist
-  email : brodeau-univ.png
-  image_nb : Brodeau_nb.jpg
-  image_color : Brodeau_color.jpg
-  post :  
-  website : 
-  phone : 
 
 - name : Arthur Capet
   title : Post-Doc
