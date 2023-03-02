@@ -43,6 +43,15 @@
   image_color : idea-icon-hi_color.png
   post :  
 
+
+- name : Hugo Jacquet
+  title : Engineer
+  email : jacquet.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  website: 
+  
 - name : J. Emmanuel Johnson
   title : Post-Doc
   email : johnson.png
@@ -115,6 +124,13 @@
 - name : Adrien Stella
   title : Engineer
   email : stella.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+ 
+- name : Luolin Sun
+  title : Post-Doc
+  email : luolin.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :  
