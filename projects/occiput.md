@@ -34,6 +34,8 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 ### Publications related to OCCIPUT and PIRATE:
 
+* (2023) Zhao, M., R. M. Ponte, and T. Penduff, Science Advances, https://www.science.org/doi/epdf/10.1126/sciadv.adg0278  [*Global-scale random bottom pressure fluctuations from oceanic intrinsic variability*](https://www.science.org/doi/epdf/10.1126/sciadv.adg0278)
+
 * (2022) Hogg, A.McC., T. Penduff, S.E. Close, W.K. Dewar, N.C. Constantinou, and J.M. Martinez-Moreno, Journal of Geophysical Research, https://doi.org/10.1029/2022JC018440 [*Circumpolar variations in the chaotic nature of Southern Ocean eddy dynamics*](https://doi.org/10.1029/2022JC018440)
 
 * (2022) Llovel, W., N. Kolodziejczyk, S. Close, T. Penduff, J.-M. Molines, and L. Terray, Environmental Research Letters,  https://doi.org/10.1088/1748-9326/ac5f93 [*Intrinsic ocean variability in decadal regional sea level and ocean heat content trends using synthetic profiles.*](https://doi.org/10.1088/1748-9326/ac5f93)
