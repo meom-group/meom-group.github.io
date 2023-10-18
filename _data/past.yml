@@ -1,3 +1,31 @@
+- name : Luz Andrea Silva Torres
+  title : Student
+  email : torres.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+      
+- name : Adrien Stella
+  title : Engineer
+  email : stella.png
+  image_nb : Stella_nb.jpg
+  image_color : Stella_color.jpg
+  post :  
+
+- name : Mikhaïl Popov
+  title : Post-Doc
+  email : popov.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+  
+- name : Anastasiia Gorbunova
+  title : Post-Doc
+  email : gorbunova.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+  
 - name : Anass El Aouni
   title : Post-Doc
   email : anass.png
