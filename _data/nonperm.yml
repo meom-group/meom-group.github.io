@@ -1,3 +1,10 @@
+- name : Alexis Barge
+  title : Post-Doc
+  email : barge.png
+  image_nb : 
+  image_color : 
+  post :  
+  
 - name : Valentin Bellemin Laponnaz
   title : PhD student
   email : bellemin.png
@@ -5,6 +12,13 @@
   image_color : Valentin_couleur.jpg
   post :  
 
+- name : Vadim Bertrand
+  title : Post-Doc
+  email : bertrand.png
+  image_nb : 
+  image_color : 
+  post :  
+  
 - name : Laurent Brodeau
   title : Research scientist
   email : brodeaudatlas.png
@@ -14,22 +28,13 @@
   website : 
   phone : 
 
-
-- name : Alessio Colella
-  title : PhD Student
-  email : colella.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-
-- name : Anastasiia Gorbunova
+- name : Max Coppin
   title : Post-Doc
-  email : gorbunova.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
+  email : coppin.png
+  image_nb : 
+  image_color : 
   post :  
-
-
+  
 - name : Hugo Jacquet
   title : Engineer
   email : jacquet.png
@@ -93,27 +98,6 @@
   image_color : idea-icon-hi_color.png
   post : 
   
-- name : Mikhaïl Popov
-  title : Post-Doc
-  email : popov.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-  
-- name : Luz Andrea Silva Torres
-  title : Student
-  email : torres.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-      
-- name : Adrien Stella
-  title : Engineer
-  email : stella.png
-  image_nb : Stella_nb.jpg
-  image_color : Stella_color.jpg
-  post :  
- 
 - name : Luolin Sun
   title : Post-Doc
   email : luolin.png
