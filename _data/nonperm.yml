@@ -1,8 +1,8 @@
 - name : Alexis Barge
   title : Post-Doc
   email : barge.png
-  image_nb : 
-  image_color : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
   post :  
   
 - name : Valentin Bellemin Laponnaz
@@ -13,10 +13,10 @@
   post :  
 
 - name : Vadim Bertrand
-  title : Post-Doc
+  title : Engineer
   email : bertrand.png
-  image_nb : 
-  image_color : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
   post :  
   
 - name : Laurent Brodeau
@@ -29,11 +29,19 @@
   phone : 
 
 - name : Max Coppin
-  title : Post-Doc
+  title : PhD student
   email : coppin.png
-  image_nb : 
-  image_color : 
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
   post :  
+  
+- name : Solène Guyard
+  title : Project Engineer
+  email : guyard.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+  website: 
   
 - name : Hugo Jacquet
   title : Engineer
