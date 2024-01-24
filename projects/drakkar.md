@@ -10,6 +10,6 @@ DRAKKAR maintains the ORCA025 (1/4° global) configuration and develops the ORCA
 
 The DRAKKAR group meets at least once a year (january-february) in Grenoble.
 
-The next **DRAKKAR Meeting** will be held in January or February 2022
+The next **DRAKKAR Meeting** will be held on site in Grenoble on Jan 29th, 30th, and 31st, [2024](https://drakkar2024.sciencesconf.org/)
 
-You can find the program and presentations of the previous years : [2021](http://pp.ige-grenoble.fr/pageperso/barnierb/WEBDRAKKAR2021/), [2020](http://pp.ige-grenoble.fr/pageperso/barnierb/WEBDRAKKAR2020/), [2019](http://pp.ige-grenoble.fr/pageperso/barnierb/WEBDRAKKAR2019)
+You can find the program and presentations of the previous years : [2023](https://drakkar2023.sciencesconf.org/),[2022](https://drakkar2022.sciencesconf.org/)
