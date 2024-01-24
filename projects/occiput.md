@@ -4,10 +4,10 @@ title: OCCIPUT
 permalink: /projects/occiput/
 ---
 
-Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](http://lgge.osug.fr/personnels/Penduff_Thierry)
+Project funded by ANR/PRACE  (2014-2018). Principal Investigator: [**Thierry Penduff**](https://www.ige-grenoble.fr/Thierry-Penduff)
 
 Most of the analyses of the OCCIPUT ensemble simulations have been performed in the framework
-of the [PIRATE project](https://www.dropbox.com/s/ttanogxa1vbvuix/PIRATE_PENDUFF.pdf?dl=0)
+of the [PIRATE project](https://www.dropbox.com/scl/fi/wrazbje5wflva8vdj5wf5/PIRATE_PENDUFF.pdf?rlkey=8677tokohl9r14fcgwergux31&dl=0)
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-ensemble.png"/>
 
@@ -30,9 +30,11 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
   -  OCCIPUT presentation given at the GMMC workshop, June 2016 [ [pdf] ](https://www.mercator-ocean.fr/wp-content/uploads/2016/06/5-LEROUX-GMMC2016.pdf) (10 Mo).
 
-  -  OCCIPUT ANR summary [ [here] ](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-BS06-0007)
+  -  OCCIPUT ANR summary [ [here] ](https://anr.fr/Project-ANR-13-BS06-0007)
 
 ### Publications related to OCCIPUT and PIRATE:
+
+* (2024) Sadhvi, K., I. Suresh, M. Lengaigne, T. Izumo, T. Penduff, J.-M. Molines, A.A. Can, and J. Vialard, Journal of Geophysical Research, Intrinsic versus wind-forced Great Whirl non-seasonal variability. Accepted.
 
 * (2023) Zhao, M., R. M. Ponte, and T. Penduff, Science Advances, https://www.science.org/doi/epdf/10.1126/sciadv.adg0278  [*Global-scale random bottom pressure fluctuations from oceanic intrinsic variability*](https://www.science.org/doi/epdf/10.1126/sciadv.adg0278)
 
