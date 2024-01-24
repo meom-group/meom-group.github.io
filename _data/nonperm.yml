@@ -38,16 +38,15 @@
 - name : Solène Guyard
   title : Project Engineer
   email : guyard.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
+  image_nb : Solene-Guyard.jpg
+  image_color : Solene-Guyard.jpg
   website: 
   
 - name : Hugo Jacquet
   title : Engineer
   email : jacquet.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
+  image_nb : Hugo_bw.JPG
+  image_color : Hugo_color.JPG
   post : 
   website: 
   
@@ -62,8 +61,8 @@
 - name : Alexandre Legay
   title : PhD student
   email : legay.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
+  image_nb : Alex_bw.JPG
+  image_color : Alex_color.JPG
   post : 
   website : 
 
@@ -109,8 +108,8 @@
 - name : Luolin Sun
   title : Post-Doc
   email : luolin.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
+  image_nb : LuoLin_bw.JPG
+  image_color : LuoLin_color.JPG
   post :  
   
 - name : Clément Ubelmann
