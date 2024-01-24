@@ -51,14 +51,6 @@
   post : 
   website: 
   
-- name : J. Emmanuel Johnson
-  title : Post-Doc
-  email : johnson.png
-  image_nb : jemanjohnson_nb.jpg
-  image_color : jemanjohnson_color.jpg
-  post : 
-  website: https://jejjohnson.netlify.app
-
 - name : Alexandre Legay
   title : PhD student
   email : legay.png
