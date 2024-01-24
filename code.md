@@ -2,10 +2,6 @@
 layout: pagemd
 title: Scientific software
 permalink: /code/
-prevtext: Contributing to a european modeling infrastructure
-prevlink: nemo
-nextext: Datasets
-nextlink: data
 ---
 
 

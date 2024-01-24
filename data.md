@@ -2,8 +2,6 @@
 layout: pagemd
 title: Datasets
 permalink: /data/
-prevtext: Scientific softwares
-prevlink: code
 ---
 
 
