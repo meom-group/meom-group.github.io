@@ -34,7 +34,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 ### Publications related to OCCIPUT and PIRATE:
 
-* (2024) Sadhvi, K., I. Suresh, M. Lengaigne, T. Izumo, T. Penduff, J.-M. Molines, A.A. Can, and J. Vialard, Journal of Geophysical Research, Intrinsic versus wind-forced Great Whirl non-seasonal variability. Accepted.
+* (2024) Sadhvi, K., I. Suresh, M. Lengaigne, T. Izumo, T. Penduff, J.-M. Molines, A.A. Can, and J. Vialard, Journal of Geophysical Research, https://doi.org/10.1029/2023JC020077 [*Intrinsic versus wind-forced Great Whirl non-seasonal variability*](https://doi.org/10.1029/2023JC020077)
 
 * (2023) Zhao, M., R. M. Ponte, and T. Penduff, Science Advances, https://www.science.org/doi/epdf/10.1126/sciadv.adg0278  [*Global-scale random bottom pressure fluctuations from oceanic intrinsic variability*](https://www.science.org/doi/epdf/10.1126/sciadv.adg0278)
 
