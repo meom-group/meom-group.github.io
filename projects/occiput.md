@@ -44,7 +44,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multiÂ
 
 * (2021) Zhao, M., R. Ponte, T. Penduff, S. Close, W. Llovel, and J.M. Molines, [*Imprints of ocean chaotic intrinsic variability on bottom pressure and implications for data and model analyses*. Geophysical Research Letters.](https://doi.org/10.1029/2021GL096341)
 
-* (2021) Fedele, G., T. Penduff, S. Pierini, M.C. Alvarez-Castro, A. Bellucci, and S. Masina, Climate Dynamics, accepted, *Interannual-to-decadal variability of the Kuroshio extension: Analyzing an ensemble of global hindcasts from a Dynamical System viewpoint*
+* (2021) Fedele, G., T. Penduff, S. Pierini, M.C. Alvarez-Castro, A. Bellucci, and S. Masina, Climate Dynamics, https://doi.org/10.1007/s00382-021-05751-7  [*Interannual-to-decadal variability of the Kuroshio extension: Analyzing an ensemble of global hindcasts from a Dynamical System viewpoint*](https://doi.org/10.1007/s00382-021-05751-7)
 
 * (2021) Carret, A., W. Llovel, T. Penduff, and J.-M. Molines, Journal of Geophysical Research - Oceans, https://doi.org/10.1029/2020JC017123, [*Atmospherically-forced and chaotic interannual variability of regional sea level and its components over 1993-2015*](https://doi.org/10.1029/2020JC017123)
 
