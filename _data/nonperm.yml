@@ -19,14 +19,6 @@
   image_color : Vadim-Bertrand-color.JPG
   post :  
   
-- name : Laurent Brodeau
-  title : Research scientist
-  email : brodeaudatlas.png
-  image_nb : Brodeau_nb.jpg
-  image_color : Brodeau_color.jpg
-  post :  long-term visitor from Datlas 
-  website : 
-  phone : 
 
 - name : Romain Caneill
   title : Post-Doc
@@ -47,7 +39,7 @@
   email : febvre.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post :  Located in Brest
+  post :  
   website: 
 
 - name : Maren Friele Grung
@@ -86,15 +78,6 @@
   image_color : Alex_color.JPG
   post : 
   website : 
-
-- name : Stephanie Leroux
-  title : Research scientist
-  email : lerouxdatlas.png
-  image_nb : Leroux_nb.jpg
-  image_color : Leroux_color.jpg
-  post : long-term visitor from Datlas 
-  website : 
-  phone : 
   
 - name : Loïc Macé
   title : PhD student
@@ -104,13 +87,6 @@
   post : 
   website : 
   
-- name : Sammy Metref
-  title : Post-Doc
-  email : metrefdatlas.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : long-term visitor from Datlas 
-  website : 
 
 - name : Lennard Miller
   title : PhD student
@@ -154,14 +130,6 @@
   image_color : LuoLin_color.JPG
   post :  
   
-- name : Clément Ubelmann
-  title : Research scientist
-  email : ubeldatlas.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : long-term visitor from Datlas  
-  website : 
-  phone : 
 
 - name : Lisa Weiss
   title : Engineer
