@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+
+<div class="container" id="welcome">
+    <div class="welcome-banner">
+        <h2 class="welcome-banner-heading">Alumni</h2>
+    </div>
+</div>
+
+
+<section id="people">
+    <div class="container">
+        <div class="row">
+            {% for person in site.data.past %}
+            <div class="col-md-6">  
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-8">
+                                <h4 class="person-name">{{person.name}}</h4>
+
+                                <p>{{person.title}}</p>
+
+                                {% if person.post %} 
+                                <p>
+                                    {{person.post}}      
+                                </p>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
