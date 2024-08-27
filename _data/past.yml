@@ -1,3 +1,48 @@
+- name : Olivier Narinc
+  title : PhD student
+  email : narinc.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
+- name : Marco Antonio Rivera Villacorta
+  title : Student
+  email : marcoantonio.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+ 
+- name : Luolin Sun
+  title : Post-Doc
+  email : luolin.png
+  image_nb : LuoLin_bw.JPG
+  image_color : LuoLin_color.JPG
+  post :  
+  
+- name : Arbaz Khalid
+  title : Student
+  email : khalid.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post : 
+
+- name : Quentin Febvre
+  title : Engineer
+  email : febvre.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+  website: 
+
+- name : Jean-Marc Molines
+  title : 
+  email : molines.png
+  image_nb : Molines_nb.jpg
+  image_color : Molines_color.jpg
+  post : Research Engineer (CNRS)
+  website : 
+  phone : +33 (0) 4 76 82 50 62
+
 - name : J. Emmanuel Johnson
   title : Post-Doc
   email : johnson.png

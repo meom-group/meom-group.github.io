@@ -19,7 +19,6 @@
   image_color : Vadim-Bertrand-color.JPG
   post :  
   
-
 - name : Romain Caneill
   title : Post-Doc
   email : caneill.png
@@ -27,6 +26,13 @@
   image_color : idea-icon-hi_color.png
   post :  
   
+- name : Marcela Contreras
+  title : Post-Doc
+  email : contreras.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
+
 - name : Max Coppin
   title : PhD student
   email : coppin.png
@@ -34,13 +40,6 @@
   image_color : Max-Coppin-color.JPG
   post :  
   
-- name : Quentin Febvre
-  title : Engineer
-  email : febvre.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
-  website: 
 
 - name : Maren Friele Grung
   title : Engineer
@@ -63,13 +62,6 @@
   image_color : Hugo_color.JPG
   post : 
   website: 
-
-- name : Arbaz Khalid
-  title : Student
-  email : khalid.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
 
 - name : Alexandre Legay
   title : PhD student
@@ -100,7 +92,7 @@
   email : emeunier.png
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post :  Located in Paris
+  post :  
 
 - name : Gabriel Mouttapa
   title : Engineer
@@ -109,27 +101,19 @@
   image_color : Gabriels.JPG
   post :  
 
-- name : Olivier Narinc
-  title : PhD student
-  email : narinc.png
+- name : Noémie Planat
+  title : Visitor
+  email : 
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
-  post : 
-
-- name : Marco Antonio Rivera Villacorta
-  title : Student
-  email : marcoantonio.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post : 
- 
-- name : Luolin Sun
-  title : Post-Doc
-  email : luolin.png
-  image_nb : LuoLin_bw.JPG
-  image_color : LuoLin_color.JPG
   post :  
-  
+
+- name : Amine Ouhechou
+  title : Engineer
+  email : amine.png
+  image_nb : idea-icon-hi.png
+  image_color : idea-icon-hi_color.png
+  post :  
 
 - name : Lisa Weiss
   title : Engineer
