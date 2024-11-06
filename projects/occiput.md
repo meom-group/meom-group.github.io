@@ -34,6 +34,8 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Publications related to OCCIPUT and PIRATE:
 
+* (2024) Börger, L., M. Schindelegger, M. Zhao, R. M. Ponte, A. Löcher, B. Uebbing, J.-M. Molines, T. Penduff, Earth System Dynamics, doi:10.5194/esd-2024-21, [*Chaotic oceanic excitation of low-frequency polar motion variability*](https://doi.org/10.5194/esd-2024-21)
+
 * (2024) Narinc, O., T. Penduff, G. Maze, S. Leroux, and J.-M. Molines, Ocean Science, https://doi.org/10.5194/egusphere-2024-1146 [*North Atlantic Subtropical Mode Water properties : Intrinsic and atmospherically-forced interannual variability*](https://doi.org/10.5194/egusphere-2024-1146)
 
 * (2024) Sadhvi, K., I. Suresh, M. Lengaigne, T. Izumo, T. Penduff, J.-M. Molines, A.A. Can, and J. Vialard, Journal of Geophysical Research, https://doi.org/10.1029/2023JC020077 [*Intrinsic versus wind-forced Great Whirl non-seasonal variability*](https://doi.org/10.1029/2023JC020077)
@@ -71,25 +73,24 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 - (2017) Bessières L.,  Leroux S., Brankart J.-M., Molines J.-M., Bouttier P.-A., Penduff T., Terray L., Barnier B., Serazin G., Geosci. Model Dev. Discuss., doi:10.5194/gmd-10-1091-2017,  [*Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution*](https://www.geosci-model-dev.net/10/1091/2017/gmd-10-1091-2017.pdf).
 
+- (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [*Ensembles of eddying ocean simulations for climate*](https://www.clivar.org/sites/default/files/documents/exchanges65_0.pdf). 
 
-- (2014) T. Penduff, B. Barnier, L. Terray, G. Sérazin, S. Gregorio, J-M Brankart, M-P Moine, J-M Molines, P. Brasseur. CLIVAR Exchanges No. 65, Vol. 19, No. 2. [*Ensembles of eddying ocean simulations for climate*](http://lgge.osug.fr/personnels/Penduff_Thierry/DOCUMENTS_RECHERCHE/CLIVAR14/Penduff2014.pdf). 
+- (2016) Sérazin, G., B. Meyssignac, T. Penduff, L. Terray, B. Barnier, and J.-M. Molines, Geophys. Res. Lett., doi:10.1002/2016GL069273, [*Quantifying uncertainties on regional sea-level rise induced by multi-decadal oceanic intrinsic variability*](https://doi.org/10.1002/2016GL069273)
 
-- (2015) Sérazin, B. Meyssiniac, and T. Penduff. *Quantifying uncertainties on regional sea-level change induced by multi-decadal oceanic intrinsic variability*. Geoph. Res. Lett., 43(15), doi: 10.1002/2016GL069273.
+- (2015) Grégorio, S., T. Penduff, G. Sérazin, J.-M. Molines, B. Barnier, and J. Hirschi,  J. Phys. Oceanogr., doi:10.1175/JPO-D-14-0163.1, [*Intrinsic variability of the Atlantic Meridional Overturning Circulation at interannual-to-multidecadal timescales*](https://doi.org/10.1175/JPO-D-14-0163.1)
 
-- (2015) Grégorio, T. Penduff, G. Sérazin, J. M. Molines, B. Barnier, and J. Hirshi. *Intrinsic variability of the Atlantic meridional overturning circulation at interannual-to- multidecadal timescales*. Journal of Physical Oceanographym 45:1929-1948.
-
-- (2015) G. Sérazin, T. Penduff, S. Grégorio, B. Barnier, J. M. Molines, and L. Terray. *Intrinsic variability of sea-level from global 1/12º ocean simulations: spatio-temporal scales*. Journal of Climate, 28:4279–4292.
+- (2015) Sérazin, G., T. Penduff, S. Grégorio, B. Barnier, J.-M. Molines, and L. Terray, J. Climate, doi:10.1175/JCLI-D-14-00554.1, [*Intrinsic variability of sea-level from global 1/12° ocean simulations : spatio-temporal scales*](https://doi.org/10.1175/JCLI-D-14-00554.1)
 
 
 
 ### Contact:
- [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
+ [Thierry Penduff](https://www.ige-grenoble.fr/Thierry-Penduff) (P.I.).
 
 ### Dataset:
- The outputs of the OCCIPUT ensemble simulation are available upon request. Please contact [Thierry Penduff](http://lgge.osug.fr/personnels/Penduff_Thierry) (P.I.).
+ The outputs of the OCCIPUT ensemble simulation are available upon request. Please contact [Thierry Penduff](https://www.ige-grenoble.fr/Thierry-Penduff) (P.I.).
 
 ### Project participants:
- - **MEOM/LGGE**, Grenoble, France.
+ - **MEOM/IGE**, Grenoble, France.
  - **CERFACS**, Toulouse, France.
 
 <img class="img-responsive img-centered" src="https://meom-group.github.io/assets/img/projects/occiput-sponsors.png"/>
