@@ -1,0 +1,8 @@
+#!/bin/ksh
+#
+email=$1
+imgfile=$2
+bgcolor="ffffff"   # "ffffcc"  "ddddaa"
+size=16     # "5"  "2"
+
+convert -font Helvetica -pointsize ${size} -gravity center -background "#${bgcolor}" label:"${email}@univ-grenoble-alpes.fr" ${imgfile}.png
