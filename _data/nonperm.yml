@@ -18,7 +18,14 @@
   image_nb : Vadim-Bertrand-bw.JPG
   image_color : Vadim-Bertrand-color.JPG
   post :  
-  
+
+- name : Laurent Brodeau
+  title : Engineer
+  email : brodeau-univ.png
+  image_nb : Brodeau_bw.JPG
+  image_color : Brodeau_color.JPG
+  post :  
+    
 - name : Romain Caneill
   title : Post-Doc
   email : caneill.png
@@ -46,13 +53,6 @@
   image_nb : idea-icon-hi.png
   image_color : idea-icon-hi_color.png
   post :    
-
-- name : Maren Friele Grung
-  title : Engineer
-  email : maren.png
-  image_nb : idea-icon-hi.png
-  image_color : idea-icon-hi_color.png
-  post :  
 
 - name : Solène Guyard
   title : Project Engineer
@@ -93,7 +93,6 @@
   post : 
   website : 
   
-
 - name : Lennard Miller
   title : PhD student
   email : miller.png
