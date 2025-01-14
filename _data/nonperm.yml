@@ -55,6 +55,13 @@
   image_color : idea-icon-hi_color.png
   post :  
 
+- name : Charlotte Durand
+  title : Post-Doc
+  email : durand.png
+  image_nb : Charlotte_Durand_nb.jpeg
+  image_color : Charlotte_Durand.jpeg
+  post :    
+  
 - name : Anne Durif
   title : Engineer
   email : durif.png
@@ -76,23 +83,7 @@
   image_color : idea-icon-hi_color.png
   post : 
   website: 
-  
-- name : Hugo Jacquet
-  title : Engineer
-  email : jacquet.png
-  image_nb : Hugo_bw.JPG
-  image_color : Hugo_color.JPG
-  post : 
-  website: 
-
-- name : Alexandre Legay
-  title : PhD student
-  email : legay.png
-  image_nb : Alex_bw.JPG
-  image_color : Alex_color.JPG
-  post : 
-  website : 
-  
+   
 - name : Loïc Macé
   title : PhD student
   email : mace.png
