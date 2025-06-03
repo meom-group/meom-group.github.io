@@ -34,7 +34,7 @@ Turbulent ocean models spontaneously generate a chaotic variability up to multi�
 
 ### Publications related to OCCIPUT and PIRATE:
 
-* (2024) Börger, L., M. Schindelegger, M. Zhao, R. M. Ponte, A. Löcher, B. Uebbing, J.-M. Molines, T. Penduff, Earth System Dynamics, doi:10.5194/esd-2024-21, [*Chaotic oceanic excitation of low-frequency polar motion variability*](https://doi.org/10.5194/esd-2024-21)
+* (2025) Börger, L., M. Schindelegger, M. Zhao, R. M. Ponte, A. Löcher, B. Uebbing, J.-M. Molines, T. Penduff, Earth System Dynamics, doi:10.5194/esd-2024-21, [*Chaotic oceanic excitation of low-frequency polar motion variability*](https://doi.org/10.5194/esd-2024-21)
 
 * (2024) Narinc, O., T. Penduff, G. Maze, S. Leroux, and J.-M. Molines, Ocean Science, https://doi.org/10.5194/egusphere-2024-1146 [*North Atlantic Subtropical Mode Water properties : Intrinsic and atmospherically-forced interannual variability*](https://doi.org/10.5194/egusphere-2024-1146)
 
