@@ -23,14 +23,6 @@
                 <li {% if current[1] == 'about' %}class='active'{% endif %}>
                     <a href="{{site.baseurl}}/about/">About</a>
                 </li>
-                <li class="dropdown {% if current[1] == 'people' %}active{% endif %}">
-                    <a href="{{site.baseurl}}/people" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">People <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="{{site.baseurl}}/people/" class={{researchDropdownClass}}>Our Team</a></li>
-                      <li><a href="{{site.baseurl}}/alumni/" class={{researchDropdownClass}}>Alumni</a></li>
-                      <li><a href="{{site.baseurl}}/partners" class={{researchDropdownClass}}>Partners</a></li>
-                   </ul>
-                  </li> 
                 <!--<li class="dropdown {% if current[1] == 'people' %}active{% endif %}">
                   <a href="{{site.baseurl}}/projects" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">People <span class="caret"></span></a>
                   <ul class="dropdown-menu">
@@ -65,14 +57,6 @@
                 <li {% if current[1] == 'publications' %}class='active'{% endif %}>
                     <a href="{{site.baseurl}}/publications/">Publications</a>
                 </li>
-                <li {% if current[1] == 'jobs' %}class='active'{% endif %}>
-                    <a href="{{site.baseurl}}/jobs/">Job Offers</a>
-                </li>
-                <li {% if current[1] == 'news' %}class='active'{% endif %}>
-                    <a href="https://www.ige-grenoble.fr/-Faits-marquants-">News</a>
-                </li>
-                <li {% if current[1] == 'contact' %}class='active'{% endif %}>
-                    <a href="{{site.baseurl}}/contact/">Contact</a>
                 </li>
             </ul>
         </div>
