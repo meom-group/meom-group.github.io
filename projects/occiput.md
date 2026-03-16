@@ -86,23 +86,25 @@ Several available subdatasets are listed at the end of this page.
 - (2015) Sérazin, G., T. Penduff, S. Grégorio, B. Barnier, J.-M. Molines, and L. Terray, J. Climate, doi:10.1175/JCLI-D-14-00554.1, [*Intrinsic variability of sea-level from global 1/12° ocean simulations : spatio-temporal scales*](https://doi.org/10.1175/JCLI-D-14-00554.1)
 
 ### Datasets:
-17. Leroux, S., T. Penduff, 2026: Atlantic Meridional Overturning Circulation (AMOC) from the OCCIPUT ensemble hindcasts and climatological simulations. SEANOE. https://doi.org/10.17882/112651
-16. Börger, L., M. Schindelegger, M. Zhao, R.M. Ponte, A. Löcher, B. Uebbing, J.-M. Molines, T. Penduff, 2024: Angular momentum estimates for global geophysical fluids, 1995-2015. https://zenodo.org/records/12664036
-15. Penduff, T., J.-M. Molines, S. Leroux, W. Llovel, 2023: Synthetic in-situ T/S data over 1993-2018 from a NEMO-based simulation of the IMHOTEP project. https://zenodo.org/records/10033077
-14. Penduff, T., J.-M. Molines, S. Leroux, W. Llovel, 2023: Synthetic along-track altimetry data over 1993-2018 from a NEMO-based simulation of the IMHOTEP project. https://zenodo.org/record/8379418
-13. Zhao, M., R. Ponte, T. Penduff, 2023: Global-scale random bottom pressure fluctuations from oceanic intrinsic variability. https://zenodo.org/record/7833830 
-12. Huck, T., R. Bajon, N. Grima, E. Portela, J.-M. Molines, T. Penduff, 2022: Three-dimensional dispersion of neutral plastic particles in a global ocean model. https://zenodo.org/records/7216083
-11. Popov, M., J.-M. Brankart, J.-M. Molines, S. Leroux, T. Penduff, P. Brasseur, 2022: Development of a probabilistic ocean modelling system based on NEMO4.0: a contribution to the SEAMLESS project (deliverable 3.3). https://zenodo.org/record/6303007
-10. Hogg, A., S. Close, T. Penduff, J.-M. Molines, 2022: Ensemble statistics for modelled Eddy Kinetic Energy in the Southern Ocean. https://zenodo.org/record/5835168 
-9. Uchida, T., B. Deremble, W.K. Dewar, T. Penduff, 2021: Diagnosing the Eliassen-Palm flux from a quasi-geostrophic double gyre ensemble. https://zenodo.org/records/5496375
-8. Leroux, S., J.-M. Brankart, A. Albert, J.-M. Molines, L. Brodeau, T. Penduff, J. Le Sommer, P. Brasseur, 2021: H2020-IMMERSE Deliverable D7.2: Ensemble quantification of short-term predictability of ocean fine-scale dynamics. https://zenodo.org/records/4570159
-7. Carret A., W. Llovel, T. Penduff, J.-M. Molines, 2021: Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations. https://zenodo.org/record/5564399
-6. Zhao, M., R. Ponte, T. Penduff, S. Close, W. Llovel, J.-M. Molines, 2021: Imprints of Ocean Chaotic Intrinsic Variability on Bottom Pressure and Implications for Data and Model Analyses. https://zenodo.org/record/5527127 
-5. Uchida, T., B. Deremble, W.K. Dewar,  T. Penduff,, 2021: Diagnosing the Eliassen-Palm flux from a quasi-geostrophic double gyre ensemble. https://zenodo.org/record/5496375 
-4. S. Close, T. Penduff, S. Speich, J.-M. Molines, 2020: Estimate of the atmospherically-forced contribution to sea surface height variability based on altimetric observations. https://zenodo.org/record/3707930 
-3. Zhen, Y., P. Tandeo, S. Leroux, S. Metref, J. Le Sommer, T. Penduff, 2019: 3DA code and data. https://zenodo.org/record/3559784 
-2. Llovel, W., T. Penduff, B. Meyssignac, J.-M. Molines, L. Terray, L. Bessières, B. Barnier, 2018: Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation. https://zenodo.org/record/1487983
-1. Bessières, L., S. Leroux, J.-M. Brankart, J.-M. Molines, M.-P. Moine, P.-A. Bouttier, T. Penduff, L. Terray B. Barnier, G. Sérazin, 2016: Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution. https://zenodo.org/record/61611
+* Leroux, S., T. Penduff, 2026: [*Atlantic Meridional Overturning Circulation (AMOC) from the OCCIPUT ensemble hindcasts and climatological simulations. SEANOE.*](https://doi.org/10.17882/112651)
+
+* Börger, L., M. Schindelegger, M. Zhao, R.M. Ponte, A. Löcher, B. Uebbing, J.-M. Molines, T. Penduff, 2024: [*Angular momentum estimates for global geophysical fluids, 1995-2015.*](https://zenodo.org/records/12664036)
+
+* Zhao, M., R. Ponte, T. Penduff, 2023: [*Global-scale random bottom pressure fluctuations from oceanic intrinsic variability.*](https://zenodo.org/record/7833830)
+
+* Hogg, A., S. Close, T. Penduff, J.-M. Molines, 2022: [*Ensemble statistics for modelled Eddy Kinetic Energy in the Southern Ocean.*](https://zenodo.org/record/5835168)
+
+* Carret A., W. Llovel, T. Penduff, J.-M. Molines, 2021: [*Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations.*](https://zenodo.org/record/5564399)
+
+* Zhao, M., R. Ponte, T. Penduff, S. Close, W. Llovel, J.-M. Molines, 2021: [*Imprints of Ocean Chaotic Intrinsic Variability on Bottom Pressure and Implications for Data and Model Analyses.*](https://zenodo.org/record/5527127)
+
+* S. Close, T. Penduff, S. Speich, J.-M. Molines, 2020: [*Estimate of the atmospherically-forced contribution to sea surface height variability based on altimetric observations.*](https://zenodo.org/record/3707930)
+
+* Zhen, Y., P. Tandeo, S. Leroux, S. Metref, J. Le Sommer, T. Penduff, 2019: [*3DA code and data.*](https://zenodo.org/record/3559784)
+
+* Llovel, W., T. Penduff, B. Meyssignac, J.-M. Molines, L. Terray, L. Bessières, B. Barnier, 2018: [*Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation.*](https://zenodo.org/record/1487983)
+
+* Bessières, L., S. Leroux, J.-M. Brankart, J.-M. Molines, M.-P. Moine, P.-A. Bouttier, T. Penduff, L. Terray B. Barnier, G. Sérazin, 2016: [*Development of a probabilistic ocean modelling system based on NEMO 3.5: application at eddying resolution.*](https://zenodo.org/record/61611)
 
 Other outputs of the OCCIPUT and companion projects are available upon request.
 
