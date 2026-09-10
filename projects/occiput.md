@@ -34,7 +34,7 @@ Several available subdatasets are listed at the end of this page.
 
 ### Publications related to OCCIPUT and PIRATE:
 
-* (2026) Donatelli, C., R. M. Ponte, T. Penduff, M. Zhao, and W. Llovel, Geophysical Research Letters, *Effects of oceanic intrinsic processes on the mean seasonal cycle in sea level*, in revision.
+* (2026) Donatelli, C., R. M. Ponte, T. Penduff, M. Zhao, and W. Llovel, Geophysical Research Letters, doi:10.1029/2026JC024150, [*Intrinsic ocean variability partly randomizes the mean seasonal cycle of sea level*](https://doi.org/10.1029/2026JC024150)
   
 * (2025) Pierard, C. M., Rühs, S., Gómez-Navarro, L., Denes, M. C., Meirer, F., Penduff, T., and van Sebille, E., Nonlin. Processes Geophys., doi:10.5194/npg-32-411-2025, [*Quantifying variability in Lagrangian particle dispersal in ocean ensemble simulations : an information theory approach*](https://doi.org/10.5194/npg-32-411-2025)
 
